@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>02_Tạo category điền Name, Notes, Attachment hợp lệ</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>4977baf5-92b7-45e1-899a-f01f37101333</testCaseGuid>
+   <testDataLinks>
+      <combinationType>ONE</combinationType>
+      <id>8fd883d8-df6f-4eb5-abe5-f3036ec526fd</id>
+      <iterationEntity>
+         <iterationType>ALL</iterationType>
+         <value></value>
+      </iterationEntity>
+      <testDataId>Data Files/New Test Data</testDataId>
+   </testDataLinks>
+</TestCaseEntity>
