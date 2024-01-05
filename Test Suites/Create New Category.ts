@@ -24,5 +24,17 @@
       <isRun>true</isRun>
       <testCaseId>Test Cases/Create new Category/02_Tạo category điền Name, Notes, Attachment hợp lệ</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>93e6aae6-10fe-4612-b66a-18ae208dc431</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>6f983d62-6d4a-4415-8985-ace8a14a408c</variableId>
+      </variableLink>
    </testCaseLink>
 </TestSuiteEntity>

@@ -1,0 +1,24 @@
+1. Hướng dẫn chạy Jenkins
+Cài đặt Jenkins: Cài đặt theo hướng dẫn của nhà sản xuất. Ngoài ra cài thêm Docker để build.
+Script: Như hình
+Bước 1: Tạo 1 SSH key với tài khoản Github có quyền truy cập vào repo của dự án. Vào Jenkins -> Manage Jenkins -> Credentials. Tạo 1 SSH key with username.
+Bước 2: Tạo 1 Jenkinsfile ở thư mục gốc của Repo dự án
+Bước 3: Vào Jenkins -> New item -> Multibranch pipeline. Tạo 1 pipeline mới, Ở phần branch source chọn Git -> Đường dẫn của Repo trên Github, ở phần credential ở dưới chọn id của SSH key credentials vừa tạo. Sau đó và click tạo
+Bước 4: Mỗi khi có một commit mới hoặc thay đổi ở repo, hệ thống sẽ tự động build và deploy code mới nhất lên.
+
+Nội dung của scipt build và deploy tự động (Jenkinsfile) gồm các bước:
+    environment {
+        EC2_IP = '13.212.186.183'
+    }
+IP của server
+
+
+
+1) Checkout SCM. Bước kết nối với Github để cập nhật code mới nhất
+2) Install dependencies. Chạy để cài đặt các package hỗ trợ chạy unit test.
+3) Run unit test. Chạy unit test để đảm bảo chát lượng
+4) Build and deploy Docker image. Nhờ vào docker, build được iamge trên một môi trường đọc lập để chạy sản phẩm. Sau khi đã tạo được image thì đẩy lên Dockerhub là nơi để lưu trữ image
+5) Deploy into EC2. Đây là bước đê deploy dự án lên server. Ta dùng SSH để kết nối tới server, sau đó chạy để deploy version mới
+- ssh -o StrictHostKeyChecking=no ec2-user@${env.EC2_IP} 'docker pull phatnguyen1812/qldapm:latest': Pull image version mới nhất của code mới được build về server
+- "scp -o StrictHostKeyChecking=no docker-compose.yml ec2-user@${env.EC2_IP}:/home/ec2-user/app": Copy file docker-compose để chạy docker lên server
+- ssh -o StrictHostKeyChecking=no ec2-user@${env.EC2_IP} 'docker-compose -f /home/ec2-user/app/docker-compose.yml up -d': Lệnh docker-compose up -d sẽ chạy image mới lên để deploy vesion mới nhất

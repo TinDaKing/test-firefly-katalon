@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>293a2aa4-5e36-4778-b32c-2795888727dc</webElementGuid>
+      <webElementGuid>ff5dae13-98f0-48b2-b66c-002962394d75</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>href</name>
       <type>Main</type>
       <value>#</value>
-      <webElementGuid>328dc0ee-09a7-4452-9b35-06a9cb0b7431</webElementGuid>
+      <webElementGuid>2e515339-7e90-4820-abd3-d9330b1794fb</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -44,7 +44,7 @@ Classification
 
 
 </value>
-      <webElementGuid>0b444279-decc-4960-915c-52eb90bbb2f7</webElementGuid>
+      <webElementGuid>950a874a-96f7-4518-aba7-281834105e11</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -52,7 +52,7 @@ Classification
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;app&quot;)/aside[@class=&quot;main-sidebar&quot;]/section[@class=&quot;sidebar&quot;]/ul[@class=&quot;sidebar-menu tree&quot;]/li[@class=&quot;treeview&quot;]/a[1]</value>
-      <webElementGuid>b3903b7a-5ecc-4a5d-aa9a-75a9d5792ec8</webElementGuid>
+      <webElementGuid>3e85f106-e754-4d9d-878b-7a29cf217306</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -60,7 +60,7 @@ Classification
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='app']/aside/section/ul/li[11]/a</value>
-      <webElementGuid>6abdda3e-b4c2-41d6-a6fb-9a5c4dbabf19</webElementGuid>
+      <webElementGuid>88991405-5a99-4c29-ba3c-edf0756cd87d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -68,7 +68,7 @@ Classification
       <name>xpath:href</name>
       <type>Main</type>
       <value>(//a[contains(@href, '#')])[8]</value>
-      <webElementGuid>e25af247-075f-45fa-81eb-b96b83880d57</webElementGuid>
+      <webElementGuid>3b977120-e850-4755-ad9b-6533321fb903</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -76,7 +76,7 @@ Classification
       <name>xpath:position</name>
       <type>Main</type>
       <value>//li[11]/a</value>
-      <webElementGuid>39f4554c-7da1-4894-85ad-044861b7705d</webElementGuid>
+      <webElementGuid>1b1a4fe1-d510-47d7-b6cb-6244afd3df61</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -96,6 +96,6 @@ Classification
 
 
 ')]</value>
-      <webElementGuid>c6cb7ce8-6f12-4fea-a441-406d331b0644</webElementGuid>
+      <webElementGuid>fb2e7ce4-2bc0-4579-85ae-5b63f324b74e</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

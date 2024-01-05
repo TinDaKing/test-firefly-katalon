@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>03_Tạo category với Name để trống</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a98b3dd2-6d44-4e3e-98db-600e1dddd2c2</testCaseGuid>
+</TestCaseEntity>

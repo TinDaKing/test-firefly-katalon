@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>83973290-006c-4ae3-9569-d506df27a549</webElementGuid>
+      <webElementGuid>5535d495-6813-4404-99b6-3fc1cb8fa79d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>btn btn-success</value>
-      <webElementGuid>ce31dd09-7d76-458e-81ab-a1cebc3d0793</webElementGuid>
+      <webElementGuid>98e4dca2-88b7-47d7-8c43-45d5ec6edc24</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>href</name>
       <type>Main</type>
       <value>https://demo.firefly-iii.org/categories/create</value>
-      <webElementGuid>03fb1b4f-42b7-4b36-ac14-55acdac96ec6</webElementGuid>
+      <webElementGuid>864a3bad-2de0-4fca-a128-ceac81ea0dd9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>text</name>
       <type>Main</type>
       <value> New category</value>
-      <webElementGuid>ef68c17b-5427-483c-be64-139f485d31d6</webElementGuid>
+      <webElementGuid>d795544e-6d48-49d3-ad6b-6e891a8f901c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;app&quot;)/div[@class=&quot;content-wrapper&quot;]/section[@class=&quot;content&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-lg-12 col-md-12 col-sm-12&quot;]/div[@class=&quot;box&quot;]/div[@class=&quot;box-body no-padding&quot;]/div[1]/a[@class=&quot;btn btn-success&quot;]</value>
-      <webElementGuid>3642d006-ce49-4014-906e-c56fdc9b9623</webElementGuid>
+      <webElementGuid>e3df1785-06f6-49f9-a6bf-b7a870a33fac</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='app']/div/section[2]/div[2]/div/div/div[2]/div/a</value>
-      <webElementGuid>8b9a8c00-97d0-44c6-ac30-7d9032a2999a</webElementGuid>
+      <webElementGuid>a3700715-a807-475b-a1e5-8d2a51dcd4e4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:link</name>
       <type>Main</type>
       <value>(//a[contains(text(),'New category')])[2]</value>
-      <webElementGuid>6a9d39a0-fe90-4452-9422-e86f45b463bb</webElementGuid>
+      <webElementGuid>1fcf2397-a4b3-4c8e-85b8-12f8d92aef86</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>(//a[contains(@href, 'https://demo.firefly-iii.org/categories/create')])[2]</value>
-      <webElementGuid>33e4ae2b-645d-48f1-9d38-e87f92c1f66e</webElementGuid>
+      <webElementGuid>ecfb1286-d6a3-42b0-8d8d-820dcd628697</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div/a</value>
-      <webElementGuid>b42335c3-f2a6-450e-9c6b-b9bc063b33b1</webElementGuid>
+      <webElementGuid>e060bdae-c2f8-4429-9845-92dc57bc143c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,6 +94,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[@href = 'https://demo.firefly-iii.org/categories/create' and (text() = ' New category' or . = ' New category')]</value>
-      <webElementGuid>d670b42d-5868-44df-b518-68f740637e9b</webElementGuid>
+      <webElementGuid>60c9eac9-fd4c-4bba-b83d-9e90b3955b71</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

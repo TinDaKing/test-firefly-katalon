@@ -17,19 +17,23 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.callTestCase(findTestCase('Log in'), [:], FailureHandling.STOP_ON_FAILURE)
+WebUI.openBrowser('')
 
-WebUI.click(findTestObject('Object Repository/Page_Whats playing  Firefly III/span_pull-right-container'))
+WebUI.navigateToUrl('https://demo.firefly-iii.org/login')
+
+WebUI.click(findTestObject('Object Repository/Page_Login to Firefly III/label_Remember me'))
+
+WebUI.click(findTestObject('Object Repository/Page_Login to Firefly III/button_Sign in'))
+
+WebUI.click(findTestObject('Object Repository/Page_Whats playing  Firefly III/a_Classification'))
 
 WebUI.click(findTestObject('Object Repository/Page_Whats playing  Firefly III/a_Categories'))
 
 WebUI.click(findTestObject('Object Repository/Page_Categories  Firefly III/a_New category'))
 
-WebUI.setText(findTestObject('Object Repository/Page_Create a new category  Categories  Fir_4c7a0c/input_name'), 'tindeptrai')
-
 WebUI.click(findTestObject('Object Repository/Page_Create a new category  Categories  Fir_4c7a0c/button_Store new category'))
 
-WebUI.verifyElementVisible(findTestObject('Page_Categories  Firefly III/div_CloseSuccessStored new category'))
+WebUI.verifyElementVisible(findTestObject('Page_Create a new category  Categories  Firefly III/p_The name field is required'))
 
 WebUI.closeBrowser()
 

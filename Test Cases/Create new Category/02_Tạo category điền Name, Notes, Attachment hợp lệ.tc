@@ -14,4 +14,30 @@
       </iterationEntity>
       <testDataId>Data Files/New Test Data</testDataId>
    </testDataLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>93e6aae6-10fe-4612-b66a-18ae208dc431</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>6f983d62-6d4a-4415-8985-ace8a14a408c</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>93e6aae6-10fe-4612-b66a-18ae208dc431</id>
+      <masked>false</masked>
+      <name>variable</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>6f983d62-6d4a-4415-8985-ace8a14a408c</id>
+      <masked>false</masked>
+      <name>variable_0</name>
+   </variable>
 </TestCaseEntity>
