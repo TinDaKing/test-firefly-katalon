@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>button_Store recurring transaction</name>
+   <name>div_Skip</name>
    <tag></tag>
-   <elementGuidId>3f4f2a2d-727b-47ec-8ed6-b1407d58c3cb</elementGuidId>
+   <elementGuidId>06546bc8-bf9c-4290-85bb-bb732bf6b8f5</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value>button.btn.pull-right.btn-success</value>
+         <value>#skip_holder</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>(//button[@type='submit'])[2]</value>
+         <value>//div[@id='skip_holder']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -21,24 +21,24 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>button</value>
-      <webElementGuid>e712f2e5-4f54-4343-b971-6102599f950c</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>type</name>
-      <type>Main</type>
-      <value>submit</value>
-      <webElementGuid>8a893f87-701f-4f8b-afdf-30b1eb2822e8</webElementGuid>
+      <value>div</value>
+      <webElementGuid>17d4a73a-4bf8-48c3-84f8-ac1b016617ed</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>btn pull-right btn-success</value>
-      <webElementGuid>9f83d59a-4620-423b-9b9c-276c424f1987</webElementGuid>
+      <value>form-group</value>
+      <webElementGuid>d05b034e-1621-499b-91a4-568efc081714</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>skip_holder</value>
+      <webElementGuid>5cc0e6a4-3d3f-4769-ab8d-0a676be97684</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,52 +46,61 @@
       <name>text</name>
       <type>Main</type>
       <value>
-Store recurring transaction
+Skip
+
+
+
 </value>
-      <webElementGuid>1de908a8-16b3-4237-944b-dc8848b3ad40</webElementGuid>
+      <webElementGuid>aeedb60d-64ed-4953-8a10-ca61cdd3aee1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;store&quot;)/div[@class=&quot;row&quot;]/div[@class=&quot;col-lg-6 col-md-6 col-sm-12 col-xs-12&quot;]/div[@class=&quot;box&quot;]/div[@class=&quot;box-footer&quot;]/button[@class=&quot;btn pull-right btn-success&quot;]</value>
-      <webElementGuid>114d600c-76f0-4b64-9b8e-dbb71704de5d</webElementGuid>
+      <value>id(&quot;skip_holder&quot;)</value>
+      <webElementGuid>bde0765a-2d9d-4684-8caa-afefc14efdbb</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>(//button[@type='submit'])[2]</value>
-      <webElementGuid>8dd98492-29d2-4631-b6d7-2ff5b89b2b09</webElementGuid>
+      <value>//div[@id='skip_holder']</value>
+      <webElementGuid>cc0278c1-6393-4db2-b5c6-2103d4dcebca</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//form[@id='store']/div[3]/div/div/div[3]/button</value>
-      <webElementGuid>74cb9113-e8e7-43e7-9cdd-d48653aa0d8b</webElementGuid>
+      <value>//form[@id='store']/div/div/div/div[2]/div[4]</value>
+      <webElementGuid>8c800501-7b0f-4b78-a6cd-5c3c56c98403</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div[3]/button</value>
-      <webElementGuid>0c7264da-6b3f-4adf-be93-8bc363d26e98</webElementGuid>
+      <value>//div[2]/div[4]</value>
+      <webElementGuid>65f78507-986a-4698-9e3a-02f8965b8aab</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//button[@type = 'submit' and (text() = '
-Store recurring transaction
+      <value>//div[@id = 'skip_holder' and (text() = '
+Skip
+
+
+
 ' or . = '
-Store recurring transaction
+Skip
+
+
+
 ')]</value>
-      <webElementGuid>a59ea9ae-0592-4f0f-8f2f-809b81e35818</webElementGuid>
+      <webElementGuid>b44d59ac-73e7-4ebb-b89f-8e0d88bb0ecf</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

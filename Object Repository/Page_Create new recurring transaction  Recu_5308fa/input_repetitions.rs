@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>input_foreign_amount</name>
+   <name>input_repetitions</name>
    <tag></tag>
-   <elementGuidId>54a191cc-fbc0-4c95-9024-f0e1a5442b99</elementGuidId>
+   <elementGuidId>aa53ca80-8c1d-4a65-8810-01d7038e8bf0</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value>#ffInput_foreign_amount</value>
+         <value>#ffInput_repetitions</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//input[@id='ffInput_foreign_amount']</value>
+         <value>//input[@id='ffInput_repetitions']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>76cce1cb-3992-4249-958b-1189ece6f3c8</webElementGuid>
+      <webElementGuid>c0c4443e-e291-4eb5-8d3f-a86929dbdc4b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>form-control</value>
-      <webElementGuid>e1b5d258-275d-49cf-8ac5-ac4137fede26</webElementGuid>
+      <webElementGuid>4769a28e-45fe-438b-9fc8-3a4cafcca3c0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,31 +38,31 @@
       <name>type</name>
       <type>Main</type>
       <value>number</value>
-      <webElementGuid>e487a95d-eb82-49e1-b0f0-eae55f4c85c8</webElementGuid>
+      <webElementGuid>d0765192-9ea0-4e02-a066-fb9e3a49c080</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>name</name>
       <type>Main</type>
-      <value>foreign_amount</value>
-      <webElementGuid>e23c62c6-5b55-48a5-80a1-a012fb7a7808</webElementGuid>
+      <value>repetitions</value>
+      <webElementGuid>87992021-ebd4-42b9-b85e-2ae27a1ba783</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>id</name>
       <type>Main</type>
-      <value>ffInput_foreign_amount</value>
-      <webElementGuid>fa9e3539-3802-407d-9169-eb83b78e29a4</webElementGuid>
+      <value>ffInput_repetitions</value>
+      <webElementGuid>8c347b05-7bce-4626-ba32-72066234e2cc</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>step</name>
       <type>Main</type>
-      <value>any</value>
-      <webElementGuid>cb579354-36d3-4304-945e-e29aed400fa9</webElementGuid>
+      <value>1</value>
+      <webElementGuid>e414b569-693b-4a96-9628-4dc18321c47a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>autocomplete</name>
       <type>Main</type>
       <value>off</value>
-      <webElementGuid>d8c7bc6b-f7b6-48c0-b859-1e144583c399</webElementGuid>
+      <webElementGuid>11e0e1f9-f427-4cb9-8a66-28bbbeac768a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -78,46 +78,54 @@
       <name>spellcheck</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>88f211fa-f27b-413a-b8d0-44a8e4dba0c5</webElementGuid>
+      <webElementGuid>4a59751e-618b-44e0-8eb2-6bd32fd7b749</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>Repetitions</value>
+      <webElementGuid>d1873e53-efd8-4d1e-8b42-b1ea3482d310</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;ffInput_foreign_amount&quot;)</value>
-      <webElementGuid>f23aff5c-c559-4fe1-86db-8818634f8a9d</webElementGuid>
+      <value>id(&quot;ffInput_repetitions&quot;)</value>
+      <webElementGuid>c348f997-ca0d-4850-8edc-07c067d1c77e</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//input[@id='ffInput_foreign_amount']</value>
-      <webElementGuid>0bb1f56d-aa76-4faf-92f5-f571f24969d2</webElementGuid>
+      <value>//input[@id='ffInput_repetitions']</value>
+      <webElementGuid>97661b5c-750e-481f-a828-9e749c0f55f2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='foreign_amount_holder']/div/input</value>
-      <webElementGuid>b77b3b49-47ca-4e11-950d-4779ff1f66ce</webElementGuid>
+      <value>//div[@id='repetitions_holder']/div/input</value>
+      <webElementGuid>a79d8dd6-8d26-430e-bdb1-141581dde861</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div[2]/div/div[2]/div[2]/div/input</value>
-      <webElementGuid>93dc0eb3-7411-48be-832d-9578cc3f9d27</webElementGuid>
+      <value>//div[8]/div/input</value>
+      <webElementGuid>8a2b5e11-c869-45a3-ba0d-81f01f26a6a1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//input[@type = 'number' and @name = 'foreign_amount' and @id = 'ffInput_foreign_amount']</value>
-      <webElementGuid>374e650a-6b66-4639-b9e0-31e7f9435856</webElementGuid>
+      <value>//input[@type = 'number' and @name = 'repetitions' and @id = 'ffInput_repetitions' and @placeholder = 'Repetitions']</value>
+      <webElementGuid>d9ee5d73-05c2-4346-a799-a5cabe004d10</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
