@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>textarea_recurring_description</name>
+   <name>input_Repeat until_repeat_until</name>
    <tag></tag>
-   <elementGuidId>06e7e470-e25c-412c-9c9b-96b5d677cbc9</elementGuidId>
+   <elementGuidId>4d30dfec-497b-4ac1-b80f-071ff3c5bcd2</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value>#ffInput_recurring_description</value>
+         <value>#ffInput_repeat_until</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//textarea[@id='ffInput_recurring_description']</value>
+         <value>//input[@id='ffInput_repeat_until']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -21,8 +21,8 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>textarea</value>
-      <webElementGuid>558fadae-9d67-404f-906e-71b10fbe9a11</webElementGuid>
+      <value>input</value>
+      <webElementGuid>abc624de-3216-433b-b9b4-f3a43c86c178</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,31 +30,31 @@
       <name>class</name>
       <type>Main</type>
       <value>form-control</value>
-      <webElementGuid>768fe3c1-00f6-43d7-b178-b3755a31ed3a</webElementGuid>
+      <webElementGuid>d132b118-fa18-4e27-b7fa-4f015d09fffc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>date</value>
+      <webElementGuid>936a24fa-068c-4c34-8288-126e3f20c46c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>name</name>
       <type>Main</type>
-      <value>recurring_description</value>
-      <webElementGuid>2d2bbeaf-a420-478b-8fc9-15fa5bdd099c</webElementGuid>
+      <value>repeat_until</value>
+      <webElementGuid>00d19562-300b-41de-852b-28b904fe22bc</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>id</name>
       <type>Main</type>
-      <value>ffInput_recurring_description</value>
-      <webElementGuid>e66d3730-0c6e-4b01-9726-11a58bacc69d</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>rows</name>
-      <type>Main</type>
-      <value>4</value>
-      <webElementGuid>2cd2ac91-d0ab-48aa-a985-290ec7403c68</webElementGuid>
+      <value>ffInput_repeat_until</value>
+      <webElementGuid>14d9eba6-590b-4f3e-8b73-51aae8652424</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>autocomplete</name>
       <type>Main</type>
       <value>off</value>
-      <webElementGuid>9786382f-7061-43f8-ae08-4e8d1dc10ea0</webElementGuid>
+      <webElementGuid>c1874ec0-f18d-446c-a7dd-52b794f11205</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -70,54 +70,46 @@
       <name>spellcheck</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>9031436d-3721-4fe9-8960-c08081cf6a6a</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>placeholder</name>
-      <type>Main</type>
-      <value>Recurring transaction description</value>
-      <webElementGuid>6586a0a1-1024-4a57-8ac0-9e223a3c20bb</webElementGuid>
+      <webElementGuid>a0f45dab-d259-4d3c-80ef-b075bcc5474f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;ffInput_recurring_description&quot;)</value>
-      <webElementGuid>286fa1ca-0bfa-42ba-ad6d-a13cf5d1df1e</webElementGuid>
+      <value>id(&quot;ffInput_repeat_until&quot;)</value>
+      <webElementGuid>d4c29292-133e-4d06-b032-d08d334ff719</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//textarea[@id='ffInput_recurring_description']</value>
-      <webElementGuid>92d26a63-0eee-4c73-8af7-44ae3fb57352</webElementGuid>
+      <value>//input[@id='ffInput_repeat_until']</value>
+      <webElementGuid>88f54764-3fb3-422e-a8aa-d6e19a93308c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='recurring_description_holder']/div/textarea</value>
-      <webElementGuid>a12b4fbf-dcc6-4ec7-8a55-7d0a0b29ccf7</webElementGuid>
+      <value>//div[@id='repeat_until_holder']/div/div/input</value>
+      <webElementGuid>d0790d45-71dd-4bab-8a7f-85e37bce730f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//textarea</value>
-      <webElementGuid>ee06627a-2f21-4a46-9276-e2cf88d7a818</webElementGuid>
+      <value>//div[7]/div/div/input</value>
+      <webElementGuid>8fa58b5e-97df-4e54-a9a3-bb15176463f3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//textarea[@name = 'recurring_description' and @id = 'ffInput_recurring_description' and @placeholder = 'Recurring transaction description']</value>
-      <webElementGuid>0a1936b1-b827-45be-adff-fd9114dc6b0a</webElementGuid>
+      <value>//input[@type = 'date' and @name = 'repeat_until' and @id = 'ffInput_repeat_until']</value>
+      <webElementGuid>9f2e7dfb-b950-4e54-b22d-15a00384dd48</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

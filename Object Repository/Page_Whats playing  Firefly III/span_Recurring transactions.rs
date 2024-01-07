@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>45b46c63-9bce-4ed1-8b00-253939900843</webElementGuid>
+      <webElementGuid>1fb6af66-3f70-433e-ae2e-19b477e55d4a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Recurring transactions</value>
-      <webElementGuid>5f9546f7-b2c4-47a7-938a-a1ef27e35959</webElementGuid>
+      <webElementGuid>38befc47-87ae-4335-b6df-9d4706ffcdc7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;app&quot;)/aside[@class=&quot;main-sidebar&quot;]/section[@class=&quot;sidebar&quot;]/ul[@class=&quot;sidebar-menu tree&quot;]/li[@class=&quot;treeview menu-open&quot;]/ul[@class=&quot;treeview-menu&quot;]/li[2]/a[1]/span[2]</value>
-      <webElementGuid>b5e9bf0c-3280-4f0d-8539-246b030c4ac8</webElementGuid>
+      <webElementGuid>6ef1b256-0401-43a3-a758-f594f7e21a0e</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='app']/aside/section/ul/li[8]/ul/li[2]/a/span[2]</value>
-      <webElementGuid>a643ac40-b86a-404b-a01f-c812cc4ccd16</webElementGuid>
+      <webElementGuid>e62c4ad7-c326-490a-9d63-a572a638409d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//li[8]/ul/li[2]/a/span[2]</value>
-      <webElementGuid>42318a74-4637-4268-a598-f066c1626dda</webElementGuid>
+      <webElementGuid>64744502-67a2-4298-af44-f2cd0d11bd80</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,6 +62,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//span[(text() = 'Recurring transactions' or . = 'Recurring transactions')]</value>
-      <webElementGuid>faa78749-acbe-4481-a42c-46608fbac125</webElementGuid>
+      <webElementGuid>85a56afe-97ed-41f4-9da6-09e8235f4220</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
