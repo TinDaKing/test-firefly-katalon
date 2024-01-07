@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>a_New category</name>
+   <name>a_Create a recurring transaction</name>
    <tag></tag>
-   <elementGuidId>ebeab2c8-49fe-45ad-9c95-4f5064c341d7</elementGuidId>
+   <elementGuidId>26d90485-1fea-4a95-8392-09d9f94a6f62</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
@@ -11,7 +11,7 @@
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//div[@id='app']/div/section[2]/div[2]/div/div/div[2]/div/a</value>
+         <value>//div[@id='app']/div/section[2]/div[3]/div/div/div[2]/div/a</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,15 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>5ffa12fd-263e-480d-ab53-6e8f16045b58</webElementGuid>
+      <webElementGuid>8c860a5b-573e-4176-8480-a53995d5b5d3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://demo.firefly-iii.org/recurring/create</value>
+      <webElementGuid>e74c3d0a-a40c-43e4-809c-dd46b5f14638</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,23 +38,16 @@
       <name>class</name>
       <type>Main</type>
       <value>btn btn-success</value>
-      <webElementGuid>d1d538db-ca18-401c-a303-9b581adb18a5</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>href</name>
-      <type>Main</type>
-      <value>https://demo.firefly-iii.org/categories/create</value>
-      <webElementGuid>9ab75d03-b9d5-4bbb-9573-2051c5c94e98</webElementGuid>
+      <webElementGuid>b6ff403a-dadb-414b-8d32-4b2ea3903063</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value> New category</value>
-      <webElementGuid>ff8c77bd-f080-4789-88d9-eb4739c63655</webElementGuid>
+      <value> Create a recurring transaction
+</value>
+      <webElementGuid>254696f3-4393-4ae8-919f-fbed60619b3d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,31 +55,31 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;app&quot;)/div[@class=&quot;content-wrapper&quot;]/section[@class=&quot;content&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-lg-12 col-md-12 col-sm-12&quot;]/div[@class=&quot;box&quot;]/div[@class=&quot;box-body no-padding&quot;]/div[1]/a[@class=&quot;btn btn-success&quot;]</value>
-      <webElementGuid>8254b31b-b3ed-4bc3-87cf-3b68fa3c3394</webElementGuid>
+      <webElementGuid>d8b2a035-7ec1-4f41-b6dd-fbaf09781538</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='app']/div/section[2]/div[2]/div/div/div[2]/div/a</value>
-      <webElementGuid>a8a19cd1-9b16-49d1-a3ee-e69d53af26a1</webElementGuid>
+      <value>//div[@id='app']/div/section[2]/div[3]/div/div/div[2]/div/a</value>
+      <webElementGuid>275154a5-ee6d-4f57-94d4-367062853c42</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:link</name>
       <type>Main</type>
-      <value>(//a[contains(text(),'New category')])[2]</value>
-      <webElementGuid>1dd14265-6cc6-4d06-af7b-e7efd0a48019</webElementGuid>
+      <value>(//a[contains(text(),'Create a recurring transaction')])[2]</value>
+      <webElementGuid>d7630d5c-dcf3-455c-9895-bb96b4516a60</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:href</name>
       <type>Main</type>
-      <value>(//a[contains(@href, 'https://demo.firefly-iii.org/categories/create')])[2]</value>
-      <webElementGuid>c3b746bf-b416-476d-8c0d-dc3a2d26af14</webElementGuid>
+      <value>(//a[contains(@href, 'https://demo.firefly-iii.org/recurring/create')])[2]</value>
+      <webElementGuid>4681eaaa-fbb3-4898-8851-92c20c71ca57</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,14 +87,16 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div/a</value>
-      <webElementGuid>7ba90137-731a-48ea-b6e6-de26794ba243</webElementGuid>
+      <webElementGuid>a25bb654-f8d7-407d-8de0-f9ddef900fe1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//a[@href = 'https://demo.firefly-iii.org/categories/create' and (text() = ' New category' or . = ' New category')]</value>
-      <webElementGuid>7fc6aedd-acd7-47d4-bef7-d1cae717e5b5</webElementGuid>
+      <value>//a[@href = 'https://demo.firefly-iii.org/recurring/create' and (text() = ' Create a recurring transaction
+' or . = ' Create a recurring transaction
+')]</value>
+      <webElementGuid>67e2159e-58a7-4e86-8d2a-be9fbecfa4ab</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

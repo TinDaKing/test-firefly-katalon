@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>72fe70ad-ba85-43c3-8891-2ec4aaae25e4</webElementGuid>
+      <webElementGuid>e13903ce-681f-4a20-aab6-ed5f843380f7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>href</name>
       <type>Main</type>
       <value>https://demo.firefly-iii.org/categories</value>
-      <webElementGuid>13623b82-c32f-4e44-b703-7120c4cf596c</webElementGuid>
+      <webElementGuid>2b1cee5a-318b-4c70-9073-c8906e50a72f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -41,7 +41,7 @@
 
 Categories
 </value>
-      <webElementGuid>b79ab946-6a78-4ac6-8e74-3429053e8974</webElementGuid>
+      <webElementGuid>bed53b89-cfc0-4ee0-924f-8db7b7dc2d06</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -49,7 +49,7 @@ Categories
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;app&quot;)/aside[@class=&quot;main-sidebar&quot;]/section[@class=&quot;sidebar&quot;]/ul[@class=&quot;sidebar-menu tree&quot;]/li[@class=&quot;treeview menu-open&quot;]/ul[@class=&quot;treeview-menu&quot;]/li[1]/a[1]</value>
-      <webElementGuid>19eb649b-4b47-4e9e-bb99-a91029cdc73c</webElementGuid>
+      <webElementGuid>4fb2b019-7dcd-42d8-9be2-8e72f452ba75</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -57,7 +57,7 @@ Categories
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='app']/aside/section/ul/li[11]/ul/li/a</value>
-      <webElementGuid>331a6396-1968-4725-abf5-e9def07ab822</webElementGuid>
+      <webElementGuid>45aeb434-15ff-4cc3-9f60-12763a664ade</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -65,7 +65,7 @@ Categories
       <name>xpath:href</name>
       <type>Main</type>
       <value>//a[contains(@href, 'https://demo.firefly-iii.org/categories')]</value>
-      <webElementGuid>5b397b52-ecf5-4a8d-8aa5-a48ae614882c</webElementGuid>
+      <webElementGuid>ec8cf639-762e-4a16-b6ca-e26205ef97b1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -73,7 +73,7 @@ Categories
       <name>xpath:position</name>
       <type>Main</type>
       <value>//li[11]/ul/li/a</value>
-      <webElementGuid>923b06d2-1b8b-451a-9018-ab794537465f</webElementGuid>
+      <webElementGuid>183ce898-3405-4977-8358-212530bfdbd9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -87,6 +87,6 @@ Categories
 
 Categories
 ')]</value>
-      <webElementGuid>154bbec8-a40e-4f70-bd88-85c71b4a77e2</webElementGuid>
+      <webElementGuid>ce3aa36a-9b05-4103-957d-8cac207cac60</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

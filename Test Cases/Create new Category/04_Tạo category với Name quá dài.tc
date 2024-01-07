@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>04_Tạo category với Name quá dài</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>033140d3-d178-4518-b974-019c430ed9b8</testCaseGuid>
+   <testDataLinks>
+      <combinationType>ONE</combinationType>
+      <id>b5a74cfc-4cf1-4bb2-b547-d24b51befa25</id>
+      <iterationEntity>
+         <iterationType>ALL</iterationType>
+         <value></value>
+      </iterationEntity>
+      <testDataId>Data Files/Category/TestData4</testDataId>
+   </testDataLinks>
+   <variableLinks>
+      <testDataLinkId>b5a74cfc-4cf1-4bb2-b547-d24b51befa25</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>Name</value>
+      <variableId>d8daebcf-37b0-4da2-bf0e-c5a53abef962</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>d8daebcf-37b0-4da2-bf0e-c5a53abef962</id>
+      <masked>false</masked>
+      <name>Name</name>
+   </variable>
+</TestCaseEntity>

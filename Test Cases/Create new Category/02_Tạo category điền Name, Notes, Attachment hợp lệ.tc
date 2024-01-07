@@ -4,40 +4,5 @@
    <name>02_Tạo category điền Name, Notes, Attachment hợp lệ</name>
    <tag></tag>
    <comment></comment>
-   <testCaseGuid>4977baf5-92b7-45e1-899a-f01f37101333</testCaseGuid>
-   <testDataLinks>
-      <combinationType>ONE</combinationType>
-      <id>8fd883d8-df6f-4eb5-abe5-f3036ec526fd</id>
-      <iterationEntity>
-         <iterationType>ALL</iterationType>
-         <value></value>
-      </iterationEntity>
-      <testDataId>Data Files/New Test Data</testDataId>
-   </testDataLinks>
-   <variableLinks>
-      <testDataLinkId></testDataLinkId>
-      <type>DEFAULT</type>
-      <value></value>
-      <variableId>93e6aae6-10fe-4612-b66a-18ae208dc431</variableId>
-   </variableLinks>
-   <variableLinks>
-      <testDataLinkId></testDataLinkId>
-      <type>DEFAULT</type>
-      <value></value>
-      <variableId>6f983d62-6d4a-4415-8985-ace8a14a408c</variableId>
-   </variableLinks>
-   <variable>
-      <defaultValue>''</defaultValue>
-      <description></description>
-      <id>93e6aae6-10fe-4612-b66a-18ae208dc431</id>
-      <masked>false</masked>
-      <name>variable</name>
-   </variable>
-   <variable>
-      <defaultValue>''</defaultValue>
-      <description></description>
-      <id>6f983d62-6d4a-4415-8985-ace8a14a408c</id>
-      <masked>false</masked>
-      <name>variable_0</name>
-   </variable>
+   <testCaseGuid>9744e97c-c50e-4878-a557-9de768d0fd4c</testCaseGuid>
 </TestCaseEntity>

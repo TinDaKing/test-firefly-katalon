@@ -25,9 +25,14 @@ WebUI.click(findTestObject('Object Repository/Page_Whats playing  Firefly III/a_
 
 WebUI.click(findTestObject('Object Repository/Page_Categories  Firefly III/a_New category'))
 
+WebUI.setText(findTestObject('Object Repository/Page_Create a new category  Categories  Fir_4c7a0c/input_name'), "$Name")
+
+WebUI.setText(findTestObject('Object Repository/Page_Create a new category  Categories  Fir_4c7a0c/textarea_notes'), (("$Notes" + 
+    "$Notes") + "$Notes") + "$Notes")
+
 WebUI.click(findTestObject('Object Repository/Page_Create a new category  Categories  Fir_4c7a0c/button_Store new category'))
 
-WebUI.verifyElementVisible(findTestObject('Page_Create a new category  Categories  Firefly III/p_The name field is required'))
+WebUI.verifyElementVisible(findTestObject('Page_Create a new category  Categories  Firefly III/p_The notes may not be greater than 32768 characters'))
 
 WebUI.closeBrowser()
 

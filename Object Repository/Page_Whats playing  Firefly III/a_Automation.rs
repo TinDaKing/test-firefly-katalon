@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>button_Store new category</name>
+   <name>a_Automation</name>
    <tag></tag>
-   <elementGuidId>869260a5-cd39-4d6d-be76-fa7e67ab7023</elementGuidId>
+   <elementGuidId>1a89f7fc-6c35-4cdc-b394-2f587b0ef230</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value>button.btn.pull-right.btn-success</value>
+         <value></value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>(//button[@type='submit'])[2]</value>
+         <value>//div[@id='app']/aside/section/ul/li[8]/a</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -21,24 +21,16 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>button</value>
-      <webElementGuid>a436d5a3-e357-46dd-a936-0d7c13a56b3f</webElementGuid>
+      <value>a</value>
+      <webElementGuid>9cad0fd1-881d-4489-8346-63abd207076d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>type</name>
+      <name>href</name>
       <type>Main</type>
-      <value>submit</value>
-      <webElementGuid>cbd421ad-20e1-49d7-a6cd-7d1251f7ab64</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>class</name>
-      <type>Main</type>
-      <value>btn pull-right btn-success</value>
-      <webElementGuid>b49c173a-6707-4cba-8080-385fa482db54</webElementGuid>
+      <value>#</value>
+      <webElementGuid>abda8679-d40c-412c-814f-f27492a7ed73</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,52 +38,64 @@
       <name>text</name>
       <type>Main</type>
       <value>
-Store new category
+
+Automation
+
+
+
 </value>
-      <webElementGuid>ae531e00-b97e-4398-b0b1-6b59aa92a01c</webElementGuid>
+      <webElementGuid>0ebabc77-1c35-4c5c-90d3-aaaad72217cd</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;store&quot;)/div[@class=&quot;row&quot;]/div[@class=&quot;col-lg-6 col-md-6 col-sm-12 col-xs-12&quot;]/div[@class=&quot;box&quot;]/div[@class=&quot;box-footer&quot;]/button[@class=&quot;btn pull-right btn-success&quot;]</value>
-      <webElementGuid>48d23b42-aeb8-4408-8ea9-ae9b8e21f80c</webElementGuid>
+      <value>id(&quot;app&quot;)/aside[@class=&quot;main-sidebar&quot;]/section[@class=&quot;sidebar&quot;]/ul[@class=&quot;sidebar-menu tree&quot;]/li[@class=&quot;treeview&quot;]/a[1]</value>
+      <webElementGuid>8d9eaa67-c310-4ed0-af89-34163c10f898</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>xpath:attributes</name>
+      <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>(//button[@type='submit'])[2]</value>
-      <webElementGuid>d312743d-ac38-49d3-bc66-40f40e98ab7e</webElementGuid>
+      <value>//div[@id='app']/aside/section/ul/li[8]/a</value>
+      <webElementGuid>68efb68c-9eb5-4b7d-aecd-30c6c23b7c19</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>xpath:idRelative</name>
+      <name>xpath:href</name>
       <type>Main</type>
-      <value>//form[@id='store']/div[2]/div/div/div[3]/button</value>
-      <webElementGuid>03ec971f-03c8-4023-918e-cb6cf8a82222</webElementGuid>
+      <value>(//a[contains(@href, '#')])[5]</value>
+      <webElementGuid>b432d319-d194-47cd-be80-49a1e27fe2ae</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div[3]/button</value>
-      <webElementGuid>75b6d73c-a8b6-4d62-b3e6-060df197d729</webElementGuid>
+      <value>//li[8]/a</value>
+      <webElementGuid>3a310349-3fab-4ae8-b73e-4f816e2f1737</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//button[@type = 'submit' and (text() = '
-Store new category
+      <value>//a[@href = '#' and (text() = '
+
+Automation
+
+
+
 ' or . = '
-Store new category
+
+Automation
+
+
+
 ')]</value>
-      <webElementGuid>81ab5968-1b4c-4468-95b2-e5db3bbe41de</webElementGuid>
+      <webElementGuid>6409d0b6-d3ea-407e-a169-f8ce1be8bc89</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

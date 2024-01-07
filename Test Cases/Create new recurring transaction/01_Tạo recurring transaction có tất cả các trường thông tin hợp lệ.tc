@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>01_Tạo recurring transaction có tất cả các trường thông tin hợp lệ</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>18cc0538-ff6d-4827-8f2c-ba025deebab2</testCaseGuid>
+</TestCaseEntity>

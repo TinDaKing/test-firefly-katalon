@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>textarea_notes</name>
+   <name>input_foreign_amount</name>
    <tag></tag>
-   <elementGuidId>0d88b950-2b52-4308-b08e-61c5b42957d6</elementGuidId>
+   <elementGuidId>54a191cc-fbc0-4c95-9024-f0e1a5442b99</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value>#ffInput_notes</value>
+         <value>#ffInput_foreign_amount</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//textarea[@id='ffInput_notes']</value>
+         <value>//input[@id='ffInput_foreign_amount']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -21,8 +21,8 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>textarea</value>
-      <webElementGuid>15bb6bbe-600a-456d-b7df-8828feb2c720</webElementGuid>
+      <value>input</value>
+      <webElementGuid>be50d2cd-21f4-4eb2-b727-ea0af24e4557</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,31 +30,39 @@
       <name>class</name>
       <type>Main</type>
       <value>form-control</value>
-      <webElementGuid>10cbd646-a38e-4533-b247-8271ce38decd</webElementGuid>
+      <webElementGuid>bc4e9fcb-1453-4404-a62c-d8c2f5b491da</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>number</value>
+      <webElementGuid>ac5d8d72-f5c4-4f9b-9677-ff89b396ad44</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>name</name>
       <type>Main</type>
-      <value>notes</value>
-      <webElementGuid>72d68375-4f62-4732-8fc8-b6d184c21bf6</webElementGuid>
+      <value>foreign_amount</value>
+      <webElementGuid>a6b8931a-2e79-4269-bcb2-78dfd436306a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>id</name>
       <type>Main</type>
-      <value>ffInput_notes</value>
-      <webElementGuid>3ca7459c-ec09-4126-a0b9-fcf89d301fe1</webElementGuid>
+      <value>ffInput_foreign_amount</value>
+      <webElementGuid>51390abf-3ca1-4a61-acbb-58a5999020ed</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>rows</name>
+      <name>step</name>
       <type>Main</type>
-      <value>4</value>
-      <webElementGuid>19010915-2bd3-4940-9344-926fb8555059</webElementGuid>
+      <value>any</value>
+      <webElementGuid>9fc2a299-2d5b-48eb-ae9d-f10bd0ae0676</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +70,7 @@
       <name>autocomplete</name>
       <type>Main</type>
       <value>off</value>
-      <webElementGuid>cd0c8cf8-a737-44db-b008-224bbd3baabd</webElementGuid>
+      <webElementGuid>90bea89c-2e24-429d-be49-6909407ec159</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -70,54 +78,46 @@
       <name>spellcheck</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>f97aaf70-bd89-48eb-885e-5d05f9ef49c1</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>placeholder</name>
-      <type>Main</type>
-      <value>Notes</value>
-      <webElementGuid>61e7997d-a90b-4d6d-a368-d8ac15f31090</webElementGuid>
+      <webElementGuid>090b5301-f55e-4cfc-b3fa-b6485e28e1d9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;ffInput_notes&quot;)</value>
-      <webElementGuid>5d2a3e5b-1950-4efb-9ff2-cae3aa89c0b5</webElementGuid>
+      <value>id(&quot;ffInput_foreign_amount&quot;)</value>
+      <webElementGuid>8389a0fe-b43e-4df8-82e9-8c0b7d7df132</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//textarea[@id='ffInput_notes']</value>
-      <webElementGuid>c9ae02e3-eeb2-42be-a347-8ef44a3b043f</webElementGuid>
+      <value>//input[@id='ffInput_foreign_amount']</value>
+      <webElementGuid>5bd47410-3f18-4611-a1dc-9525f02185f0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='notes_holder']/div/textarea</value>
-      <webElementGuid>9ddab6e0-0e62-4d5e-b8dc-8fdf3164c18b</webElementGuid>
+      <value>//div[@id='foreign_amount_holder']/div/input</value>
+      <webElementGuid>a31c6ad2-0507-4d2e-8503-56c35bde41ca</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//textarea</value>
-      <webElementGuid>63c975e0-09ea-4b59-a1d6-546a682ffa2e</webElementGuid>
+      <value>//div[2]/div/div[2]/div[2]/div/input</value>
+      <webElementGuid>e01f12e0-d9f5-47a0-932c-a3ce7afcb5f4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//textarea[@name = 'notes' and @id = 'ffInput_notes' and @placeholder = 'Notes']</value>
-      <webElementGuid>cd645d6b-9cab-4262-9b01-4eaa25d8598f</webElementGuid>
+      <value>//input[@type = 'number' and @name = 'foreign_amount' and @id = 'ffInput_foreign_amount']</value>
+      <webElementGuid>f0b468ea-2e2e-4dca-9e81-d80ffec63e8a</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

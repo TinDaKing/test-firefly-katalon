@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>textarea_notes</name>
+   <name>input_transaction_description</name>
    <tag></tag>
-   <elementGuidId>0d88b950-2b52-4308-b08e-61c5b42957d6</elementGuidId>
+   <elementGuidId>e9065f14-65fb-4cfb-b4f9-35ea451c9c02</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value>#ffInput_notes</value>
+         <value>#ffInput_transaction_description</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//textarea[@id='ffInput_notes']</value>
+         <value>//input[@id='ffInput_transaction_description']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -21,8 +21,8 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>textarea</value>
-      <webElementGuid>15bb6bbe-600a-456d-b7df-8828feb2c720</webElementGuid>
+      <value>input</value>
+      <webElementGuid>68f079f6-50fc-4058-af76-da6b73568260</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,31 +30,31 @@
       <name>class</name>
       <type>Main</type>
       <value>form-control</value>
-      <webElementGuid>10cbd646-a38e-4533-b247-8271ce38decd</webElementGuid>
+      <webElementGuid>452d86d1-f133-46a8-90fb-c04023b609fd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>text</value>
+      <webElementGuid>9779c2dd-77c3-405e-9150-925397edbddd</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>name</name>
       <type>Main</type>
-      <value>notes</value>
-      <webElementGuid>72d68375-4f62-4732-8fc8-b6d184c21bf6</webElementGuid>
+      <value>transaction_description</value>
+      <webElementGuid>5e386f1d-fcb1-4151-b67f-a8a3b670fba6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>id</name>
       <type>Main</type>
-      <value>ffInput_notes</value>
-      <webElementGuid>3ca7459c-ec09-4126-a0b9-fcf89d301fe1</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>rows</name>
-      <type>Main</type>
-      <value>4</value>
-      <webElementGuid>19010915-2bd3-4940-9344-926fb8555059</webElementGuid>
+      <value>ffInput_transaction_description</value>
+      <webElementGuid>71adfb32-3025-48fb-8a63-be102af148c6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>autocomplete</name>
       <type>Main</type>
       <value>off</value>
-      <webElementGuid>cd0c8cf8-a737-44db-b008-224bbd3baabd</webElementGuid>
+      <webElementGuid>f07de6bf-e569-431c-8b76-ed26892a9f25</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -70,54 +70,54 @@
       <name>spellcheck</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>f97aaf70-bd89-48eb-885e-5d05f9ef49c1</webElementGuid>
+      <webElementGuid>6ba86c5c-3e7d-489e-8a4f-e09d075025e6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>placeholder</name>
       <type>Main</type>
-      <value>Notes</value>
-      <webElementGuid>61e7997d-a90b-4d6d-a368-d8ac15f31090</webElementGuid>
+      <value>Transaction description</value>
+      <webElementGuid>74bd841c-e847-4a18-a8e7-c2ea596a47f8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;ffInput_notes&quot;)</value>
-      <webElementGuid>5d2a3e5b-1950-4efb-9ff2-cae3aa89c0b5</webElementGuid>
+      <value>id(&quot;ffInput_transaction_description&quot;)</value>
+      <webElementGuid>68ea115a-7791-4f62-acbe-d88b3eb42ad8</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//textarea[@id='ffInput_notes']</value>
-      <webElementGuid>c9ae02e3-eeb2-42be-a347-8ef44a3b043f</webElementGuid>
+      <value>//input[@id='ffInput_transaction_description']</value>
+      <webElementGuid>75871c9b-a97d-4be3-ba5b-a7f3fa258190</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='notes_holder']/div/textarea</value>
-      <webElementGuid>9ddab6e0-0e62-4d5e-b8dc-8fdf3164c18b</webElementGuid>
+      <value>//div[@id='transaction_description_holder']/div/input</value>
+      <webElementGuid>1d0fd271-d3b4-4161-89bd-781668b257c0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//textarea</value>
-      <webElementGuid>63c975e0-09ea-4b59-a1d6-546a682ffa2e</webElementGuid>
+      <value>//div[2]/div/input</value>
+      <webElementGuid>4072816f-b3d8-4c8b-a0ff-93c075aff460</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//textarea[@name = 'notes' and @id = 'ffInput_notes' and @placeholder = 'Notes']</value>
-      <webElementGuid>cd645d6b-9cab-4262-9b01-4eaa25d8598f</webElementGuid>
+      <value>//input[@type = 'text' and @name = 'transaction_description' and @id = 'ffInput_transaction_description' and @placeholder = 'Transaction description']</value>
+      <webElementGuid>28b72ac8-8811-4b4d-8313-578690440f4e</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

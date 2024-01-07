@@ -25,7 +25,7 @@ WebUI.click(findTestObject('Object Repository/Page_Whats playing  Firefly III/a_
 
 WebUI.click(findTestObject('Object Repository/Page_Categories  Firefly III/a_New category'))
 
-WebUI.setText(findTestObject('Object Repository/Page_Create a new category  Categories  Fir_4c7a0c/input_name'), 'tindeptrai')
+WebUI.setText(findTestObject('Object Repository/Page_Create a new category  Categories  Fir_4c7a0c/input_name'), 'tindeptraiqua')
 
 WebUI.click(findTestObject('Object Repository/Page_Create a new category  Categories  Fir_4c7a0c/button_Store new category'))
 

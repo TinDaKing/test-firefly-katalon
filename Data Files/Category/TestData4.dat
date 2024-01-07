@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DataFileEntity>
    <description></description>
-   <name>New Test Data</name>
+   <name>TestData4</name>
    <tag></tag>
    <connectionProperties/>
    <containsHeaders>true</containsHeaders>
    <csvSeperator>COMMA</csvSeperator>
-   <dataFileGUID>bb29fd4e-93fa-44f5-a941-19faeab09ed0</dataFileGUID>
-   <dataSourceUrl>C:\Users\tranh\Downloads\data-std3k_wOoLB4FpNDqxCGT.csv</dataSourceUrl>
+   <dataFileGUID>cdbcb791-5195-4fc9-8dc6-195713d429eb</dataFileGUID>
+   <dataSourceUrl>C:\Users\tranh\Downloads\data_TC1_4.csv</dataSourceUrl>
    <driver>CSV</driver>
    <isInternalPath>false</isInternalPath>
    <query></query>

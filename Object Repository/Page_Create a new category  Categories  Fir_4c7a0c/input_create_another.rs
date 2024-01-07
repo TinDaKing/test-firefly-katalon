@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>d2aae9e1-d7e3-4bd1-bd5e-c3afdef95f83</webElementGuid>
+      <webElementGuid>044493f2-2bc9-42e1-a285-69a008f78a96</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>type</name>
       <type>Main</type>
       <value>checkbox</value>
-      <webElementGuid>561b31ca-6407-4451-824a-c1a81307687e</webElementGuid>
+      <webElementGuid>ffdb83d4-191b-46b1-9198-d98071ababff</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>name</name>
       <type>Main</type>
       <value>create_another</value>
-      <webElementGuid>f406fe3b-0c47-416a-92c6-a258bb4a1d42</webElementGuid>
+      <webElementGuid>a289a0e3-da15-467b-aa28-568f78200712</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>id</name>
       <type>Main</type>
       <value>category_return_to_form</value>
-      <webElementGuid>ba2efe72-67b4-48a1-89d9-4a8d1a35c132</webElementGuid>
+      <webElementGuid>440ce085-28f7-43a9-abdf-77994382ac66</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>value</name>
       <type>Main</type>
       <value>1</value>
-      <webElementGuid>c4d0551c-cdfa-43a3-a7cb-92caa901863f</webElementGuid>
+      <webElementGuid>239530b2-aa6a-468b-85e1-c9da7949e5f5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;category_return_to_form&quot;)</value>
-      <webElementGuid>6dde65e1-3dda-4e06-8e44-930d9c5abac1</webElementGuid>
+      <webElementGuid>1190cc6a-29f8-4e16-ac49-292dd5a1163a</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='category_return_to_form']</value>
-      <webElementGuid>f26af1c1-74cc-43c4-874f-e3a80194a797</webElementGuid>
+      <webElementGuid>53ba8491-42ec-4687-8f86-b81a1e75c69a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//form[@id='store']/div[2]/div/div/div[2]/div/div/div/label/input</value>
-      <webElementGuid>c3d1beaa-f9e0-4c2d-91a5-c270d24bf2e0</webElementGuid>
+      <webElementGuid>601d5d31-3eb0-487b-90fa-73a72fd2d895</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//label/input</value>
-      <webElementGuid>80e70f7e-c4b6-4b98-86c5-fc58eadef60f</webElementGuid>
+      <webElementGuid>9c6cfb5f-e85b-44a7-8f4e-f784bb59bae9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,6 +94,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@type = 'checkbox' and @name = 'create_another' and @id = 'category_return_to_form']</value>
-      <webElementGuid>2fbfe23c-1028-431b-aa04-dc0ad130997f</webElementGuid>
+      <webElementGuid>c23b9450-6b5a-4d54-b75d-35fcb55ff363</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

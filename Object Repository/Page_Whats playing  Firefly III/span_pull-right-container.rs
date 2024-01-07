@@ -11,7 +11,7 @@
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//div[@id='app']/aside/section/ul/li[11]/a/span[2]/span</value>
+         <value>//div[@id='app']/aside/section/ul/li[11]/a/span[2]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,26 +22,42 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>15b18e18-adbe-47f4-ada4-a3a8458c8913</webElementGuid>
+      <webElementGuid>92846c0d-9629-4b0e-be6c-fe60f546dfa4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>fa fa-angle-left pull-right</value>
-      <webElementGuid>4634cc1d-c0a4-4d06-9602-f4a3c14b5380</webElementGuid>
+      <value>pull-right-container</value>
+      <webElementGuid>51d492a0-1185-4f53-a63c-a68facbed6bc</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;app&quot;)/aside[@class=&quot;main-sidebar&quot;]/section[@class=&quot;sidebar&quot;]/ul[@class=&quot;sidebar-menu tree&quot;]/li[@class=&quot;treeview&quot;]/a[1]/span[@class=&quot;pull-right-container&quot;]/span[@class=&quot;fa fa-angle-left pull-right&quot;]</value>
-      <webElementGuid>df90f4c9-e4bf-4054-8912-d36fab5fb5d9</webElementGuid>
+      <value>id(&quot;app&quot;)/aside[@class=&quot;main-sidebar&quot;]/section[@class=&quot;sidebar&quot;]/ul[@class=&quot;sidebar-menu tree&quot;]/li[@class=&quot;treeview&quot;]/a[1]/span[@class=&quot;pull-right-container&quot;]</value>
+      <webElementGuid>1ba43e40-5a20-4d9e-a496-796a7dac7294</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/aside/section/ul/li[11]/a/span[2]</value>
+      <webElementGuid>ebbe3738-3b68-4602-853e-7305fbff33a7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[11]/a/span[2]</value>
+      <webElementGuid>3469c31e-db43-4e58-939e-97bfe882b116</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
@@ -55,21 +71,5 @@
       <type>Main</type>
       <value>//li[11]/a/span[2]/span</value>
       <webElementGuid>6786fac7-38db-47ad-a3f4-a08890294b3b</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:idRelative</name>
-      <type>Main</type>
-      <value>//div[@id='app']/aside/section/ul/li[11]/a/span[2]</value>
-      <webElementGuid>246d65d0-e713-4b3a-ac16-d3fa3a21c72f</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:position</name>
-      <type>Main</type>
-      <value>//li[11]/a/span[2]</value>
-      <webElementGuid>44ba31ab-d585-459e-aaf6-e23f17ff370a</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>a_Classification</name>
+   <name>p_The notes may not be greater than 32768 characters</name>
    <tag></tag>
-   <elementGuidId>dda385c0-27a8-402e-bb8d-e4a643e26119</elementGuidId>
+   <elementGuidId>f84b24de-ae7d-491f-a16e-bd92b77b4394</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value></value>
+         <value>p.text-danger</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//div[@id='app']/aside/section/ul/li[11]/a</value>
+         <value>//div[@id='notes_holder']/div/p[2]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -21,81 +21,55 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>a</value>
-      <webElementGuid>9e065896-aa62-4023-bc97-24c38eb27993</webElementGuid>
+      <value>p</value>
+      <webElementGuid>8182b43f-4d30-47b8-974b-a6517ee7ba87</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>href</name>
+      <name>class</name>
       <type>Main</type>
-      <value>#</value>
-      <webElementGuid>dd091ce7-383f-4f7a-9868-fb6d8e5d752d</webElementGuid>
+      <value>text-danger</value>
+      <webElementGuid>7c639fbf-8bf6-4602-abbb-389d450d38ac</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>
-
-Classification
-
-
-
-</value>
-      <webElementGuid>6871d437-631d-4e34-aa00-de513ded5bcd</webElementGuid>
+      <value>The notes may not be greater than 32768 characters.</value>
+      <webElementGuid>81f4b8d9-2b65-4bfb-96ab-b72c5ed40498</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;app&quot;)/aside[@class=&quot;main-sidebar&quot;]/section[@class=&quot;sidebar&quot;]/ul[@class=&quot;sidebar-menu tree&quot;]/li[@class=&quot;treeview&quot;]/a[1]</value>
-      <webElementGuid>4169937a-dbee-462f-a219-ac0e83fad139</webElementGuid>
+      <value>id(&quot;notes_holder&quot;)/div[@class=&quot;col-sm-8&quot;]/p[@class=&quot;text-danger&quot;]</value>
+      <webElementGuid>3b9d36b6-e780-451c-8596-6cd5e4c8dc13</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='app']/aside/section/ul/li[11]/a</value>
-      <webElementGuid>b0e7e0e3-0153-46a9-8be2-5139f2d1840c</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:href</name>
-      <type>Main</type>
-      <value>(//a[contains(@href, '#')])[8]</value>
-      <webElementGuid>6138ae2b-16e6-44b3-938a-3d11b639e4a2</webElementGuid>
+      <value>//div[@id='notes_holder']/div/p[2]</value>
+      <webElementGuid>67310ebc-1b85-4838-b6fe-cd5d8e15c837</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//li[11]/a</value>
-      <webElementGuid>43dd1158-8fca-4da1-a337-ed1123351b3c</webElementGuid>
+      <value>//p[2]</value>
+      <webElementGuid>e702dbaf-c04a-4a66-bfec-663ea498e371</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//a[@href = '#' and (text() = '
-
-Classification
-
-
-
-' or . = '
-
-Classification
-
-
-
-')]</value>
-      <webElementGuid>b5fda6ac-49e9-473a-92b9-5aab4ba6b0d1</webElementGuid>
+      <value>//p[(text() = 'The notes may not be greater than 32768 characters.' or . = 'The notes may not be greater than 32768 characters.')]</value>
+      <webElementGuid>cb614a43-d1ae-4a1e-b614-3a7c980460da</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

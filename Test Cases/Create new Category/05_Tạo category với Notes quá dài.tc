@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>05_Tạo category với Notes quá dài</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a9c2102b-f086-4995-b13c-a2dd988d3299</testCaseGuid>
+   <testDataLinks>
+      <combinationType>ONE</combinationType>
+      <id>8416d512-9a63-4f28-bb43-d11564fe5fee</id>
+      <iterationEntity>
+         <iterationType>ALL</iterationType>
+         <value></value>
+      </iterationEntity>
+      <testDataId>Data Files/Category/TestData5</testDataId>
+   </testDataLinks>
+   <variableLinks>
+      <testDataLinkId>8416d512-9a63-4f28-bb43-d11564fe5fee</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>Name</value>
+      <variableId>68c8c233-2fcb-41ff-8b02-7c1520e460a7</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId>8416d512-9a63-4f28-bb43-d11564fe5fee</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>Notes</value>
+      <variableId>c42dd12d-0c9d-433f-9c0d-1b5231b61805</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>68c8c233-2fcb-41ff-8b02-7c1520e460a7</id>
+      <masked>false</masked>
+      <name>Name</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>c42dd12d-0c9d-433f-9c0d-1b5231b61805</id>
+      <masked>false</masked>
+      <name>Notes</name>
+   </variable>
+</TestCaseEntity>

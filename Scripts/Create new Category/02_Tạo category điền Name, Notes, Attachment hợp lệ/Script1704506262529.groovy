@@ -25,9 +25,17 @@ WebUI.click(findTestObject('Object Repository/Page_Whats playing  Firefly III/a_
 
 WebUI.click(findTestObject('Object Repository/Page_Categories  Firefly III/a_New category'))
 
+WebUI.setText(findTestObject('Object Repository/Page_Create a new category  Categories  Fir_4c7a0c/input_name'), 'wre')
+
+WebUI.setText(findTestObject('Object Repository/Page_Create a new category  Categories  Fir_4c7a0c/textarea_notes'), '123abc')
+
+WebUI.uploadFile(findTestObject('Page_Create a new category  Categories  Firefly III/input_Attachments_attachments'), 'C:////Users////tranh////Downloads////37323487979.png')
+
+WebUI.click(findTestObject('Object Repository/Page_Create a new category  Categories  Fir_4c7a0c/input_create_another'))
+
 WebUI.click(findTestObject('Object Repository/Page_Create a new category  Categories  Fir_4c7a0c/button_Store new category'))
 
-WebUI.verifyElementVisible(findTestObject('Page_Create a new category  Categories  Firefly III/p_The name field is required'))
+WebUI.verifyElementVisible(findTestObject('Page_Create a new category  Categories  Firefly III/div_CloseSuccessStored new category dw'))
 
 WebUI.closeBrowser()
 

@@ -3,8 +3,7 @@ import static com.kms.katalon.core.testcase.TestCaseFactory.findTestCase
 import static com.kms.katalon.core.testdata.TestDataFactory.findTestData
 import static com.kms.katalon.core.testobject.ObjectRepository.findTestObject
 import static com.kms.katalon.core.testobject.ObjectRepository.findWindowsObject
-import com.kms.katalon.core.checkpoint.Checkpoint
-import com.kms.katalon.core.configuration.RunConfiguration
+import com.kms.katalon.core.checkpoint.Checkpoint as Checkpoint
 import com.kms.katalon.core.cucumber.keyword.CucumberBuiltinKeywords as CucumberKW
 import com.kms.katalon.core.mobile.keyword.MobileBuiltInKeywords as Mobile
 import com.kms.katalon.core.model.FailureHandling as FailureHandling
@@ -26,19 +25,13 @@ WebUI.click(findTestObject('Object Repository/Page_Whats playing  Firefly III/a_
 
 WebUI.click(findTestObject('Object Repository/Page_Categories  Firefly III/a_New category'))
 
-WebUI.setText(findTestObject('Object Repository/Page_Create a new category  Categories  Fir_4c7a0c/input_name'), "$Name")
+WebUI.setText(findTestObject('Object Repository/Page_Create a new category  Categories  Fir_4c7a0c/input_name'), 'fwrs')
 
-WebUI.setText(findTestObject('Object Repository/Page_Create a new category  Categories  Fir_4c7a0c/textarea_notes'), "$Notes")
-
-WebUI.click(findTestObject('Object Repository/Page_Create a new category  Categories  Fir_4c7a0c/input_create_another'))
-println("Đường dẫn đầy đủ: " + System.getProperty("user.dir"))
-WebUI.uploadFile(findTestObject('Page_Create a new category  Categories  Firefly III/input_Attachments_attachments'), (System.getProperty('user.dir')+
-'/Data Files/Category/') + "$Attachment")
-
+WebUI.uploadFile(findTestObject('Page_Create a new category  Categories  Firefly III/input_Attachments_attachments'), 'C:////Users////tranh////Downloads////x2mate.com - ROYALTY FREE Corporate Music for Drone Video _ Travel Recollections Video Background (192 kbps).mp3')
 
 WebUI.click(findTestObject('Object Repository/Page_Create a new category  Categories  Fir_4c7a0c/button_Store new category'))
 
-WebUI.verifyElementVisible(findTestObject('Page_Categories  Firefly III/div_CloseSuccessStored new category'))
+WebUI.verifyElementVisible(findTestObject('Page_413 Request Entity Too Large/h1_413 Request Entity Too Large'))
 
 WebUI.closeBrowser()
 

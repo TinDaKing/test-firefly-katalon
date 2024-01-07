@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>06_Tạo category với Attachment lớn hơn 2MB</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>64e1a333-36c7-4606-bba6-399dc8f1e228</testCaseGuid>
+</TestCaseEntity>
