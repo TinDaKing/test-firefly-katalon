@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>a_Create a recurring transaction</name>
+   <name>a_Deposit</name>
    <tag></tag>
-   <elementGuidId>26d90485-1fea-4a95-8392-09d9f94a6f62</elementGuidId>
+   <elementGuidId>fbff9726-1ca5-4958-a9dd-e03358dbcfaf</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value>a.btn.btn-success</value>
+         <value>a.btn.btn-default.switch-button</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//div[@id='app']/div/section[2]/div[3]/div/div/div[2]/div/a</value>
+         <value>//div[@id='name_holder']/div/div/a[2]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,81 +22,86 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>eed9b91f-1e42-4a96-b0bb-2cf5c62cef99</webElementGuid>
+      <webElementGuid>d4c12d07-3c64-40ac-8dbd-2bfb44030509</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>href</name>
       <type>Main</type>
-      <value>https://demo.firefly-iii.org/recurring/create</value>
-      <webElementGuid>23481928-5cd1-42e1-bea6-84d34be444e3</webElementGuid>
+      <value>#</value>
+      <webElementGuid>01fcbb8d-fc4b-452e-9fe8-345ebaf8a6a1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>btn btn-success</value>
-      <webElementGuid>0db1e0bf-bd13-425a-963e-398c57778dad</webElementGuid>
+      <value>btn btn-default switch-button</value>
+      <webElementGuid>981a88be-72ef-4575-a12e-8c534ead26d5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-value</name>
+      <type>Main</type>
+      <value>deposit</value>
+      <webElementGuid>a6082baa-4c9b-45a6-b3af-6a0fa13ec422</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value> Create a recurring transaction
-</value>
-      <webElementGuid>b976781f-9ed5-4819-8a81-1d4e081acc5e</webElementGuid>
+      <value>Deposit</value>
+      <webElementGuid>ceef9b43-e89b-4b5d-96bb-a9f631edb5e1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;app&quot;)/div[@class=&quot;content-wrapper&quot;]/section[@class=&quot;content&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-lg-12 col-md-12 col-sm-12&quot;]/div[@class=&quot;box&quot;]/div[@class=&quot;box-body no-padding&quot;]/div[1]/a[@class=&quot;btn btn-success&quot;]</value>
-      <webElementGuid>f30fb544-ef8b-42b6-9b9d-cc33657ab044</webElementGuid>
+      <value>id(&quot;name_holder&quot;)/div[@class=&quot;col-sm-8&quot;]/div[@class=&quot;btn-group btn-group-sm&quot;]/a[@class=&quot;btn btn-default switch-button&quot;]</value>
+      <webElementGuid>5f43fe76-a658-40a7-9e63-51e443e1d559</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='app']/div/section[2]/div[3]/div/div/div[2]/div/a</value>
-      <webElementGuid>db72a69b-fec3-473f-b24b-823c5174e043</webElementGuid>
+      <value>//div[@id='name_holder']/div/div/a[2]</value>
+      <webElementGuid>a8918190-3bce-4ee0-bc45-0d8ea46d04c1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:link</name>
       <type>Main</type>
-      <value>(//a[contains(text(),'Create a recurring transaction')])[2]</value>
-      <webElementGuid>e7f31b38-920a-4bd9-a431-0bb528f4aa69</webElementGuid>
+      <value>//a[contains(text(),'Deposit')]</value>
+      <webElementGuid>8bb7f293-9a98-4d2e-b6b0-b8794fd2e33d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:href</name>
       <type>Main</type>
-      <value>(//a[contains(@href, 'https://demo.firefly-iii.org/recurring/create')])[2]</value>
-      <webElementGuid>ec151ec9-010d-40e0-945d-bb42d461e7f5</webElementGuid>
+      <value>(//a[contains(@href, '#')])[12]</value>
+      <webElementGuid>b8a101bc-4f1f-4b8a-99db-14f48728c704</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div/a</value>
-      <webElementGuid>4c3cbe4a-232a-47fa-93e3-b26e1fb7c832</webElementGuid>
+      <value>//a[2]</value>
+      <webElementGuid>8d691866-e1cc-49d6-b95c-6ed0e0e163fe</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//a[@href = 'https://demo.firefly-iii.org/recurring/create' and (text() = ' Create a recurring transaction
-' or . = ' Create a recurring transaction
-')]</value>
-      <webElementGuid>4279c93a-3566-46aa-9c1b-1928cdff4998</webElementGuid>
+      <value>//a[@href = '#' and (text() = 'Deposit' or . = 'Deposit')]</value>
+      <webElementGuid>9b0503dc-25a5-46c8-b688-3c5113308f6a</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>input_transaction_description</name>
+   <name>input_skip</name>
    <tag></tag>
-   <elementGuidId>e9065f14-65fb-4cfb-b4f9-35ea451c9c02</elementGuidId>
+   <elementGuidId>c2ffacb1-e994-41eb-9140-1ea21ed4f9c0</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value>#ffInput_transaction_description</value>
+         <value>#ffInput_skip</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//input[@id='ffInput_transaction_description']</value>
+         <value>//input[@id='ffInput_skip']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>96a83dab-dfcc-4230-ae68-60a9f8003dc9</webElementGuid>
+      <webElementGuid>c54d2ec1-3d41-4b21-b756-3fb025189ad5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,31 +30,47 @@
       <name>class</name>
       <type>Main</type>
       <value>form-control</value>
-      <webElementGuid>a09347f6-5772-4ba2-88cf-6ffeb3b67c85</webElementGuid>
+      <webElementGuid>7d7e0991-73e3-4ef7-9593-0e75e08d20a4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>type</name>
       <type>Main</type>
-      <value>text</value>
-      <webElementGuid>171f4136-1b66-4ff0-88da-205712ae2cce</webElementGuid>
+      <value>number</value>
+      <webElementGuid>568245c5-4706-480d-af71-02934d3ec603</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>name</name>
       <type>Main</type>
-      <value>transaction_description</value>
-      <webElementGuid>78b1a5dd-8029-41ad-8ede-bea7db31de88</webElementGuid>
+      <value>skip</value>
+      <webElementGuid>2599ad0a-ae48-496b-94ef-9a22e4193106</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>id</name>
       <type>Main</type>
-      <value>ffInput_transaction_description</value>
-      <webElementGuid>81ac8070-73e7-4fab-8e05-6a6013624fe0</webElementGuid>
+      <value>ffInput_skip</value>
+      <webElementGuid>f79710bb-9bef-4ed2-b049-330e541f68de</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>value</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>20220752-3a18-4f44-8053-8bf2bb5a114d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>step</name>
+      <type>Main</type>
+      <value>1</value>
+      <webElementGuid>761f137e-41d7-4ac3-9d13-cc9a83017ce7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +78,7 @@
       <name>autocomplete</name>
       <type>Main</type>
       <value>off</value>
-      <webElementGuid>8292d88c-68f4-40dc-8b19-4ef46df9f071</webElementGuid>
+      <webElementGuid>5bd160bc-80db-495d-9164-35199f6684c3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -70,54 +86,54 @@
       <name>spellcheck</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>c6bc2ffe-3d89-468d-a552-e67bcab6951d</webElementGuid>
+      <webElementGuid>c2a77975-b1e9-4964-b1bb-754d8022cb0c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>placeholder</name>
       <type>Main</type>
-      <value>Transaction description</value>
-      <webElementGuid>ef5c3aee-7f39-4a2d-ba6f-a07846ffa8cb</webElementGuid>
+      <value>Skip</value>
+      <webElementGuid>6795ae0e-4b28-4b1c-b2e5-aad51f9711ce</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;ffInput_transaction_description&quot;)</value>
-      <webElementGuid>5a678bb7-df85-4531-b174-aa0b067ef74f</webElementGuid>
+      <value>id(&quot;ffInput_skip&quot;)</value>
+      <webElementGuid>dd625b33-e8b8-4eec-9766-2caaa63cf379</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//input[@id='ffInput_transaction_description']</value>
-      <webElementGuid>ed36859b-bac4-43d1-b596-0658a07128aa</webElementGuid>
+      <value>//input[@id='ffInput_skip']</value>
+      <webElementGuid>6f4ec1dc-dea9-4757-85b6-29e3a764d41d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='transaction_description_holder']/div/input</value>
-      <webElementGuid>84fe8b96-871a-46ee-80c5-a9f53365f885</webElementGuid>
+      <value>//div[@id='skip_holder']/div/input</value>
+      <webElementGuid>a38c35e1-1904-47f9-a9b3-55112f76570c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div[2]/div/input</value>
-      <webElementGuid>0db50861-1aaa-4e0d-b6aa-3bd05bb3a43e</webElementGuid>
+      <value>//div[4]/div/input</value>
+      <webElementGuid>c81e830d-84fc-47b0-982c-d382921522f7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//input[@type = 'text' and @name = 'transaction_description' and @id = 'ffInput_transaction_description' and @placeholder = 'Transaction description']</value>
-      <webElementGuid>5c264661-3974-49ab-9f46-00a3e6cf7732</webElementGuid>
+      <value>//input[@type = 'number' and @name = 'skip' and @id = 'ffInput_skip' and @placeholder = 'Skip']</value>
+      <webElementGuid>5ff2b3ce-9bc5-4ffc-b032-e792b2291978</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>3a4fbcfa-aab7-46d4-bc71-6ca783fae909</webElementGuid>
+      <webElementGuid>eea39dad-ee37-4421-a13d-da0cfac8bd85</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>form-control</value>
-      <webElementGuid>4eeaaed8-7da0-42f2-8ddc-b0ab0825a55f</webElementGuid>
+      <webElementGuid>bd07dcad-717d-4496-98e5-92ebbbabf48e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>type</name>
       <type>Main</type>
       <value>number</value>
-      <webElementGuid>35c9a3ce-fd63-4a70-b483-83f307686f5c</webElementGuid>
+      <webElementGuid>1158cc94-a32e-4ce8-a8ba-5008f0d9226e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>name</name>
       <type>Main</type>
       <value>amount</value>
-      <webElementGuid>b36adcce-f8a3-492a-805a-7ca9d09ebe22</webElementGuid>
+      <webElementGuid>f8cf5d51-40d0-4c73-8c5b-fa696d0d3bad</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>id</name>
       <type>Main</type>
       <value>ffInput_amount</value>
-      <webElementGuid>3d348a56-5bde-4fef-aff2-0bc7268fcba6</webElementGuid>
+      <webElementGuid>2717c360-1e01-4863-a743-ca7f662acd75</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>step</name>
       <type>Main</type>
       <value>any</value>
-      <webElementGuid>0662a3be-8c77-40fc-ac95-b812945f6b63</webElementGuid>
+      <webElementGuid>a8310dfe-3be7-4e4c-b27d-b2cbb4fccf71</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>autocomplete</name>
       <type>Main</type>
       <value>off</value>
-      <webElementGuid>473b1de1-802d-4724-bcf6-d7432bfa68ac</webElementGuid>
+      <webElementGuid>6fea3c09-3f64-4cac-b067-9ba42fd2589e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>spellcheck</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>fe5d3c44-676f-4679-92ff-6fb5c4ddcdef</webElementGuid>
+      <webElementGuid>966ff593-1890-4e8e-b753-25c7486a320e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;ffInput_amount&quot;)</value>
-      <webElementGuid>79f9c046-1993-4ef2-8112-5558343d7b47</webElementGuid>
+      <webElementGuid>7bda63c7-b58e-4459-8ebb-3cc00da5e00a</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='ffInput_amount']</value>
-      <webElementGuid>435095ab-85e7-4848-8488-a55c77bd2b2b</webElementGuid>
+      <webElementGuid>21437ac0-b424-4fd6-b93c-1b08e6b1ba12</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='amount_holder']/div/input</value>
-      <webElementGuid>6e6bc9a6-2ff7-47f4-a7f9-d7f5d110fe57</webElementGuid>
+      <webElementGuid>3b9b4ff4-8da1-4b73-8459-02719ee6cec2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,7 +110,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/div/div/div[2]/div[4]/div/input</value>
-      <webElementGuid>c51b7322-238f-47d4-a171-2188bef623e8</webElementGuid>
+      <webElementGuid>65b7752e-a506-4d00-95f1-8ba42660b3b8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -118,6 +118,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@type = 'number' and @name = 'amount' and @id = 'ffInput_amount']</value>
-      <webElementGuid>0fdf7997-5607-4226-b3a0-87d76ac62e4a</webElementGuid>
+      <webElementGuid>8387a213-5846-44a7-8123-3e4115c50278</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

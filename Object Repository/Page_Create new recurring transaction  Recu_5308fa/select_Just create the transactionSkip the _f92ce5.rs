@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>input_transaction_description</name>
+   <name>select_Just create the transactionSkip the _f92ce5</name>
    <tag></tag>
-   <elementGuidId>e9065f14-65fb-4cfb-b4f9-35ea451c9c02</elementGuidId>
+   <elementGuidId>3314990d-9026-42ec-bca5-c1f6941b21e1</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value>#ffInput_transaction_description</value>
+         <value>#ffInput_weekend</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//input[@id='ffInput_transaction_description']</value>
+         <value>//select[@id='ffInput_weekend']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -21,8 +21,8 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>input</value>
-      <webElementGuid>96a83dab-dfcc-4230-ae68-60a9f8003dc9</webElementGuid>
+      <value>select</value>
+      <webElementGuid>ffbf66d4-0af6-420f-a93f-3aa6b4d2b98c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,31 +30,23 @@
       <name>class</name>
       <type>Main</type>
       <value>form-control</value>
-      <webElementGuid>a09347f6-5772-4ba2-88cf-6ffeb3b67c85</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>type</name>
-      <type>Main</type>
-      <value>text</value>
-      <webElementGuid>171f4136-1b66-4ff0-88da-205712ae2cce</webElementGuid>
+      <webElementGuid>67d5d2ea-aafc-4a33-9caa-14ecfabc2515</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>name</name>
       <type>Main</type>
-      <value>transaction_description</value>
-      <webElementGuid>78b1a5dd-8029-41ad-8ede-bea7db31de88</webElementGuid>
+      <value>weekend</value>
+      <webElementGuid>7895d29b-f701-4015-9d07-58ad4b738a19</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>id</name>
       <type>Main</type>
-      <value>ffInput_transaction_description</value>
-      <webElementGuid>81ac8070-73e7-4fab-8e05-6a6013624fe0</webElementGuid>
+      <value>ffInput_weekend</value>
+      <webElementGuid>9dbe25b3-151e-4b55-8e50-f145aefe80f4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +54,7 @@
       <name>autocomplete</name>
       <type>Main</type>
       <value>off</value>
-      <webElementGuid>8292d88c-68f4-40dc-8b19-4ef46df9f071</webElementGuid>
+      <webElementGuid>8958699a-0f42-4363-8a76-a7c44b10dfa7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -70,54 +62,54 @@
       <name>spellcheck</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>c6bc2ffe-3d89-468d-a552-e67bcab6951d</webElementGuid>
+      <webElementGuid>bd0aa30d-e8d4-40bd-aff2-766620b4de6d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>placeholder</name>
+      <name>text</name>
       <type>Main</type>
-      <value>Transaction description</value>
-      <webElementGuid>ef5c3aee-7f39-4a2d-ba6f-a07846ffa8cb</webElementGuid>
+      <value>Just create the transactionSkip the occurrenceCreate the transaction on the previous Friday insteadCreate the transaction on the next Monday instead</value>
+      <webElementGuid>7c72e0ea-f30f-4300-95d6-022700901acb</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;ffInput_transaction_description&quot;)</value>
-      <webElementGuid>5a678bb7-df85-4531-b174-aa0b067ef74f</webElementGuid>
+      <value>id(&quot;ffInput_weekend&quot;)</value>
+      <webElementGuid>31eebd33-5e6f-435c-b380-1979b681637f</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//input[@id='ffInput_transaction_description']</value>
-      <webElementGuid>ed36859b-bac4-43d1-b596-0658a07128aa</webElementGuid>
+      <value>//select[@id='ffInput_weekend']</value>
+      <webElementGuid>f0bc2207-d8b2-4485-ae1b-859890f97cdd</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='transaction_description_holder']/div/input</value>
-      <webElementGuid>84fe8b96-871a-46ee-80c5-a9f53365f885</webElementGuid>
+      <value>//div[@id='weekend_holder']/div/select</value>
+      <webElementGuid>7b0d202d-fca7-4e04-b916-b6c86e05534d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div[2]/div/input</value>
-      <webElementGuid>0db50861-1aaa-4e0d-b6aa-3bd05bb3a43e</webElementGuid>
+      <value>//div[5]/div/select</value>
+      <webElementGuid>f5099c08-3971-43fe-8602-ca49cb5b13ff</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//input[@type = 'text' and @name = 'transaction_description' and @id = 'ffInput_transaction_description' and @placeholder = 'Transaction description']</value>
-      <webElementGuid>5c264661-3974-49ab-9f46-00a3e6cf7732</webElementGuid>
+      <value>//select[@name = 'weekend' and @id = 'ffInput_weekend' and (text() = 'Just create the transactionSkip the occurrenceCreate the transaction on the previous Friday insteadCreate the transaction on the next Monday instead' or . = 'Just create the transactionSkip the occurrenceCreate the transaction on the previous Friday insteadCreate the transaction on the next Monday instead')]</value>
+      <webElementGuid>6e635306-fb63-4b56-a0b3-3a77a1edd425</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

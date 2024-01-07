@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>button_Store recurring transaction</name>
+   <name>input_create_another</name>
    <tag></tag>
-   <elementGuidId>3f4f2a2d-727b-47ec-8ed6-b1407d58c3cb</elementGuidId>
+   <elementGuidId>0c2c2546-a7a2-4ebf-affc-1d741f92b113</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value>button.btn.pull-right.btn-success</value>
+         <value>#recurrence_return_to_form</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>(//button[@type='submit'])[2]</value>
+         <value>//input[@id='recurrence_return_to_form']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -21,77 +21,79 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>button</value>
-      <webElementGuid>83fcd1a8-667c-4eaf-b49c-52ca479f6d77</webElementGuid>
+      <value>input</value>
+      <webElementGuid>3dbfd923-4a42-45e8-b563-df3586ef1a12</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>type</name>
       <type>Main</type>
-      <value>submit</value>
-      <webElementGuid>3455693f-10b6-444f-9475-000e87ea1d22</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>class</name>
-      <type>Main</type>
-      <value>btn pull-right btn-success</value>
-      <webElementGuid>fa11e290-7437-4620-a2c5-b916913ec2ac</webElementGuid>
+      <value>checkbox</value>
+      <webElementGuid>ae11b4b5-f5dd-46fd-b9e0-2e3cb3ee3551</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>text</name>
+      <name>name</name>
       <type>Main</type>
-      <value>
-Store recurring transaction
-</value>
-      <webElementGuid>50d4230a-1e57-4881-aee5-b3c85d614d62</webElementGuid>
+      <value>create_another</value>
+      <webElementGuid>d6ca3b09-4106-4ccf-b65f-6f034183f216</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>recurrence_return_to_form</value>
+      <webElementGuid>12212f8b-527a-40dd-90ab-44c31739aac6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>value</name>
+      <type>Main</type>
+      <value>1</value>
+      <webElementGuid>6c5518db-65be-446c-8fc7-8f984a4b7a90</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;store&quot;)/div[@class=&quot;row&quot;]/div[@class=&quot;col-lg-6 col-md-6 col-sm-12 col-xs-12&quot;]/div[@class=&quot;box&quot;]/div[@class=&quot;box-footer&quot;]/button[@class=&quot;btn pull-right btn-success&quot;]</value>
-      <webElementGuid>12823b42-6310-4261-bdab-cda9893a6fb6</webElementGuid>
+      <value>id(&quot;recurrence_return_to_form&quot;)</value>
+      <webElementGuid>ba4d814f-3ea6-404b-a0c3-3d4880228a67</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>(//button[@type='submit'])[2]</value>
-      <webElementGuid>1ea71d00-1ba0-490e-bbe6-0367016fd2c6</webElementGuid>
+      <value>//input[@id='recurrence_return_to_form']</value>
+      <webElementGuid>460d9390-4804-48cf-8262-6ed6352e2e29</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//form[@id='store']/div[3]/div/div/div[3]/button</value>
-      <webElementGuid>16d95efa-df74-45f5-9c18-6f3f6acaf339</webElementGuid>
+      <value>//form[@id='store']/div[3]/div/div/div[2]/div/div/div/label/input</value>
+      <webElementGuid>d9e852c2-a06b-4f77-8733-19fbd005fdfd</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div[3]/button</value>
-      <webElementGuid>ab55d8bb-911f-4ade-995c-cc94b5415c13</webElementGuid>
+      <value>//div[3]/div/div/div[2]/div/div/div/label/input</value>
+      <webElementGuid>cbdcf3e7-85fd-4542-b9de-23091321aeea</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//button[@type = 'submit' and (text() = '
-Store recurring transaction
-' or . = '
-Store recurring transaction
-')]</value>
-      <webElementGuid>77e2e688-d059-4203-9484-1c47567ba777</webElementGuid>
+      <value>//input[@type = 'checkbox' and @name = 'create_another' and @id = 'recurrence_return_to_form']</value>
+      <webElementGuid>7b2ff278-9849-438c-9045-841b8f459781</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>f5d99cab-5494-454a-8478-12059b998f38</webElementGuid>
+      <webElementGuid>8a9a8fa0-afac-4050-9cad-dd14cbf3076c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>type</name>
       <type>Main</type>
       <value>submit</value>
-      <webElementGuid>d3a9dbc1-89c1-4e03-aedb-cfec83c3d649</webElementGuid>
+      <webElementGuid>2c93d1fb-6891-440a-8b49-9b5f01dc618d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>class</name>
       <type>Main</type>
       <value>btn btn-primary btn-block</value>
-      <webElementGuid>fbc70693-0534-48e6-895f-d7638433b750</webElementGuid>
+      <webElementGuid>58b75c1f-9771-417d-a3ea-198e96ec59d8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Sign in</value>
-      <webElementGuid>ee4159b7-38b6-4c2f-ad55-9137b3e2408b</webElementGuid>
+      <webElementGuid>b87b5d49-af2c-476e-8b85-7c70f8d1a517</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html[1]/body[@class=&quot;login-page&quot;]/div[@class=&quot;login-box&quot;]/div[@class=&quot;card&quot;]/div[@class=&quot;card-body login-card-body&quot;]/form[1]/div[@class=&quot;row mb-4&quot;]/div[@class=&quot;col-12&quot;]/button[@class=&quot;btn btn-primary btn-block&quot;]</value>
-      <webElementGuid>0dc11fd3-2624-4b19-be47-aa52d160c78f</webElementGuid>
+      <webElementGuid>07e959b7-84b2-4bea-b3df-dcf489427966</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//button[@type='submit']</value>
-      <webElementGuid>d458a806-5a96-4ec4-8c55-9af4d5a3290a</webElementGuid>
+      <webElementGuid>931a6f21-e97f-4aed-93a3-a9159f23919f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//button</value>
-      <webElementGuid>69216a8b-1bb4-4f3a-a869-b513fdf63e31</webElementGuid>
+      <webElementGuid>fd977be5-c866-40a4-adfe-d03d8523a250</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,6 +78,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[@type = 'submit' and (text() = 'Sign in' or . = 'Sign in')]</value>
-      <webElementGuid>b3a8a6cb-23da-4e43-acdf-1f3958846a47</webElementGuid>
+      <webElementGuid>4db21258-9221-43e1-9c9a-8a5153b78133</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

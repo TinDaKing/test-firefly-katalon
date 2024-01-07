@@ -5,4 +5,65 @@
    <tag></tag>
    <comment></comment>
    <testCaseGuid>18cc0538-ff6d-4827-8f2c-ba025deebab2</testCaseGuid>
+   <testDataLinks>
+      <combinationType>ONE</combinationType>
+      <id>436fee61-7d3f-474f-8046-e337d5d4a309</id>
+      <iterationEntity>
+         <iterationType>ALL</iterationType>
+         <value></value>
+      </iterationEntity>
+      <testDataId>Data Files/Recurring transaction/TestData1</testDataId>
+   </testDataLinks>
+   <variableLinks>
+      <testDataLinkId>436fee61-7d3f-474f-8046-e337d5d4a309</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>Name</value>
+      <variableId>0e22795e-7160-4da8-a191-814efb7ad052</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId>436fee61-7d3f-474f-8046-e337d5d4a309</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>Transaction_description</value>
+      <variableId>e863aaa2-fe53-460f-ac19-c972da27e0b9</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId>436fee61-7d3f-474f-8046-e337d5d4a309</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>Amount</value>
+      <variableId>9bdbf6bf-4137-4902-bf76-c0237aebc392</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId>436fee61-7d3f-474f-8046-e337d5d4a309</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>Foreign_amount</value>
+      <variableId>94e4f549-c85f-4f30-81ef-cb1c3f9bfe6a</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>0e22795e-7160-4da8-a191-814efb7ad052</id>
+      <masked>false</masked>
+      <name>Name</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>e863aaa2-fe53-460f-ac19-c972da27e0b9</id>
+      <masked>false</masked>
+      <name>Transaction_description</name>
+   </variable>
+   <variable>
+      <defaultValue>0</defaultValue>
+      <description></description>
+      <id>9bdbf6bf-4137-4902-bf76-c0237aebc392</id>
+      <masked>false</masked>
+      <name>Amount</name>
+   </variable>
+   <variable>
+      <defaultValue>0</defaultValue>
+      <description></description>
+      <id>94e4f549-c85f-4f30-81ef-cb1c3f9bfe6a</id>
+      <masked>false</masked>
+      <name>Foreign_amount</name>
+   </variable>
 </TestCaseEntity>

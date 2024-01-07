@@ -17,7 +17,11 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.callTestCase(findTestCase('Log in'), [:], FailureHandling.STOP_ON_FAILURE)
+WebUI.openBrowser('')
+
+WebUI.navigateToUrl('https://demo.firefly-iii.org/login')
+
+WebUI.click(findTestObject('Object Repository/Page_Login to Firefly III/button_Sign in'))
 
 WebUI.click(findTestObject('Object Repository/Page_Whats playing  Firefly III/a_Automation'))
 
@@ -25,22 +29,14 @@ WebUI.click(findTestObject('Object Repository/Page_Whats playing  Firefly III/sp
 
 WebUI.click(findTestObject('Object Repository/Page_Recurring transactions  Firefly III/a_Create a recurring transaction'))
 
-WebUI.setText(findTestObject('Object Repository/Page_Create new recurring transaction  Recu_5308fa/input_title'), Name)
+WebUI.setText(findTestObject('Object Repository/Page_Create new recurring transaction  Recu_5308fa/input_title'), 'abcdyeu')
 
-WebUI.setText(findTestObject('Object Repository/Page_Create new recurring transaction  Recu_5308fa/input_transaction_description'), 
-    Transaction_description)
+WebUI.selectOptionByValue(findTestObject('Object Repository/Page_Create new recurring transaction  Recu_5308fa/select_Repeat foreverRepeat until dateRepea_4f389d'), 
+    'until_date', true)
 
-WebUI.setText(findTestObject('Object Repository/Page_Create new recurring transaction  Recu_5308fa/input_amount'), Amount)
-
-WebUI.selectOptionByValue(findTestObject('Object Repository/Page_Create new recurring transaction  Recu_5308fa/select_(no currency)Euro ()Hungarian forint_850ea1'), 
-    "2", true)
-
-WebUI.setText(findTestObject('Object Repository/Page_Create new recurring transaction  Recu_5308fa/input_foreign_amount'), 
-    Foreign_amount)
+WebUI.click(findTestObject('Object Repository/Page_Create new recurring transaction  Recu_5308fa/div_Mandatory recurrence informationTitleFi_57d39c'))
 
 WebUI.click(findTestObject('Object Repository/Page_Create new recurring transaction  Recu_5308fa/button_Store recurring transaction'))
-
-WebUI.verifyElementVisible(findTestObject('Page_Recurring transactions  Firefly III/div_CloseSuccessRecurring transaction sdgag stored successfully'))
 
 WebUI.closeBrowser()
 
