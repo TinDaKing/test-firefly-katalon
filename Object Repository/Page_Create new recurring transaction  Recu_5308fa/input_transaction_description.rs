@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>96a83dab-dfcc-4230-ae68-60a9f8003dc9</webElementGuid>
+      <webElementGuid>87d2c57f-8c7b-4cc6-9f75-41d018ac1dfe</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>form-control</value>
-      <webElementGuid>a09347f6-5772-4ba2-88cf-6ffeb3b67c85</webElementGuid>
+      <webElementGuid>fbd6e7da-2a56-41d0-a0b2-e5a2c2da1571</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>type</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>171f4136-1b66-4ff0-88da-205712ae2cce</webElementGuid>
+      <webElementGuid>0a85c5d1-c6bc-4d58-9111-6d38f5eab80c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>name</name>
       <type>Main</type>
       <value>transaction_description</value>
-      <webElementGuid>78b1a5dd-8029-41ad-8ede-bea7db31de88</webElementGuid>
+      <webElementGuid>162ff1a9-d6b9-4713-b552-0fd3103b080d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>id</name>
       <type>Main</type>
       <value>ffInput_transaction_description</value>
-      <webElementGuid>81ac8070-73e7-4fab-8e05-6a6013624fe0</webElementGuid>
+      <webElementGuid>6b05eded-8e33-45bc-8cea-ee9c04d11ffe</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>autocomplete</name>
       <type>Main</type>
       <value>off</value>
-      <webElementGuid>8292d88c-68f4-40dc-8b19-4ef46df9f071</webElementGuid>
+      <webElementGuid>bebbadc6-1231-437d-bc90-af1ec87f3c93</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>spellcheck</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>c6bc2ffe-3d89-468d-a552-e67bcab6951d</webElementGuid>
+      <webElementGuid>cf7fb721-283e-4418-83dc-1e122ff6f176</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -78,7 +78,7 @@
       <name>placeholder</name>
       <type>Main</type>
       <value>Transaction description</value>
-      <webElementGuid>ef5c3aee-7f39-4a2d-ba6f-a07846ffa8cb</webElementGuid>
+      <webElementGuid>0439b258-f28b-4a20-a7db-e8437bf38eb9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;ffInput_transaction_description&quot;)</value>
-      <webElementGuid>5a678bb7-df85-4531-b174-aa0b067ef74f</webElementGuid>
+      <webElementGuid>8b40dc8b-4f6b-4e18-bf38-ad024c0be2a8</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='ffInput_transaction_description']</value>
-      <webElementGuid>ed36859b-bac4-43d1-b596-0658a07128aa</webElementGuid>
+      <webElementGuid>587d1424-7568-4964-8061-5f5dd4c045d3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='transaction_description_holder']/div/input</value>
-      <webElementGuid>84fe8b96-871a-46ee-80c5-a9f53365f885</webElementGuid>
+      <webElementGuid>8ad8f75d-36f7-4bc6-b4b2-456b0fd02006</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,7 +110,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/div/input</value>
-      <webElementGuid>0db50861-1aaa-4e0d-b6aa-3bd05bb3a43e</webElementGuid>
+      <webElementGuid>b9bb75d8-419d-48b2-80e7-bb4e379875d9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -118,6 +118,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@type = 'text' and @name = 'transaction_description' and @id = 'ffInput_transaction_description' and @placeholder = 'Transaction description']</value>
-      <webElementGuid>5c264661-3974-49ab-9f46-00a3e6cf7732</webElementGuid>
+      <webElementGuid>f08b17ed-5209-472b-bb81-bbcaf9cd8f1a</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

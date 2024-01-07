@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>select_Repeat foreverRepeat until dateRepea_4f389d</name>
+   <name>select_(no currency)Swiss franc (CHF)Euro (_0331dc</name>
    <tag></tag>
-   <elementGuidId>85d521dd-280e-4352-a62c-e48479dcb10f</elementGuidId>
+   <elementGuidId>13ec24d3-1098-4d8d-86dc-54f2987d7133</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value>#ffInput_repetition_end</value>
+         <value>#ffInput_foreign_currency_id</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//select[@id='ffInput_repetition_end']</value>
+         <value>//select[@id='ffInput_foreign_currency_id']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>select</value>
-      <webElementGuid>2e3d9829-9325-4545-b7fb-9b162997f25f</webElementGuid>
+      <webElementGuid>5751f23f-a8b4-43d0-8945-3a5d79ccad8c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,23 +30,23 @@
       <name>class</name>
       <type>Main</type>
       <value>form-control</value>
-      <webElementGuid>1293e6d6-558d-45df-92c4-1c063c25e244</webElementGuid>
+      <webElementGuid>aae79933-df8f-4647-aafc-d66a6c4a1caa</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>name</name>
       <type>Main</type>
-      <value>repetition_end</value>
-      <webElementGuid>feddbf1f-aecb-430a-aa68-b5901ea54367</webElementGuid>
+      <value>foreign_currency_id</value>
+      <webElementGuid>6f0569d0-2ffc-471a-8641-6cbc8f18bc17</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>id</name>
       <type>Main</type>
-      <value>ffInput_repetition_end</value>
-      <webElementGuid>677ad415-bdb7-495b-878f-cadee1b14d2d</webElementGuid>
+      <value>ffInput_foreign_currency_id</value>
+      <webElementGuid>acdf45e1-cf8f-440a-91d8-03e2bde2c0bf</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>autocomplete</name>
       <type>Main</type>
       <value>off</value>
-      <webElementGuid>6e487df5-db5b-4dbf-b774-a9ee4e5b4b9c</webElementGuid>
+      <webElementGuid>6988f274-6073-4cd2-90ad-e6256cf71911</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,54 +62,54 @@
       <name>spellcheck</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>48c191d1-b416-4705-9340-e9387fb1ff1f</webElementGuid>
+      <webElementGuid>4707f060-a388-4235-874b-8f9417d33319</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>Repeat foreverRepeat until dateRepeat a number of times</value>
-      <webElementGuid>a0697003-e30b-4c55-b6e7-d74e58630ccc</webElementGuid>
+      <value>(no currency)Swiss franc (CHF)Euro (€)US Dollar ($)</value>
+      <webElementGuid>4ed6d3d4-140a-42e7-b16c-d2d31d81c69d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;ffInput_repetition_end&quot;)</value>
-      <webElementGuid>9b727c56-69c9-47cd-946e-7370ec6a8321</webElementGuid>
+      <value>id(&quot;ffInput_foreign_currency_id&quot;)</value>
+      <webElementGuid>5f8e9c8d-c434-4931-af09-e2b1d32f721c</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//select[@id='ffInput_repetition_end']</value>
-      <webElementGuid>e7042940-d63b-4742-8ffd-9905ab88dcb4</webElementGuid>
+      <value>//select[@id='ffInput_foreign_currency_id']</value>
+      <webElementGuid>215560e8-40e1-4983-8661-655ede39112d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='repetition_end_holder']/div/select</value>
-      <webElementGuid>ad3926ec-b67c-41c5-9118-02cb366b7878</webElementGuid>
+      <value>//div[@id='foreign_currency_id_holder']/div/select</value>
+      <webElementGuid>563ff717-0423-4f73-969c-127393b26c6d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div[6]/div/select</value>
-      <webElementGuid>7f9847a9-d402-4f88-807f-4a8b6dddf478</webElementGuid>
+      <value>//div[2]/div/div[2]/div/div/select</value>
+      <webElementGuid>a8caf6c1-e1fb-4b60-b789-14ce742e6a5b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//select[@name = 'repetition_end' and @id = 'ffInput_repetition_end' and (text() = 'Repeat foreverRepeat until dateRepeat a number of times' or . = 'Repeat foreverRepeat until dateRepeat a number of times')]</value>
-      <webElementGuid>14d539c3-f9e9-487a-be37-a600f0ff8eb4</webElementGuid>
+      <value>//select[@name = 'foreign_currency_id' and @id = 'ffInput_foreign_currency_id' and (text() = '(no currency)Swiss franc (CHF)Euro (€)US Dollar ($)' or . = '(no currency)Swiss franc (CHF)Euro (€)US Dollar ($)')]</value>
+      <webElementGuid>149a55f0-2cfe-4bac-ad3b-21bc43f040ee</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
