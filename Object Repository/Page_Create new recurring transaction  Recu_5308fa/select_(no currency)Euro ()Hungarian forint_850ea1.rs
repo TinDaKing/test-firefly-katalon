@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>select</value>
-      <webElementGuid>20c4163d-b8ce-4a02-bc93-40264de5f789</webElementGuid>
+      <webElementGuid>1af5af66-9c2d-4a2d-96bb-1f0c6c61ae7b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>form-control</value>
-      <webElementGuid>cc410d12-7e74-4c4c-a7e2-52e8fcff6f98</webElementGuid>
+      <webElementGuid>910b033c-aff3-4e1f-9310-016ebf3a3b0a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>name</name>
       <type>Main</type>
       <value>foreign_currency_id</value>
-      <webElementGuid>828ab58c-dd18-4242-8e35-92d671aa9226</webElementGuid>
+      <webElementGuid>26d8ff55-06d8-4caf-a1a4-f2f3a716ecca</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>id</name>
       <type>Main</type>
       <value>ffInput_foreign_currency_id</value>
-      <webElementGuid>8a35e34e-b253-4cae-bcde-4b9e752437ab</webElementGuid>
+      <webElementGuid>dceb3c6e-9026-49d1-b463-92283e2fd793</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>autocomplete</name>
       <type>Main</type>
       <value>off</value>
-      <webElementGuid>a396a632-d92f-409b-b690-61f3fc875846</webElementGuid>
+      <webElementGuid>f0dc502a-ae8f-42e6-bafb-5e6c41faa960</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>spellcheck</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>be05037a-4647-402c-9927-ba31eeeb7977</webElementGuid>
+      <webElementGuid>41c26936-82ff-46fb-93a2-6da8a35d6880</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -70,7 +70,7 @@
       <name>text</name>
       <type>Main</type>
       <value>(no currency)Euro (€)Hungarian forint (Ft)Ukrainian hryvnia (₴)</value>
-      <webElementGuid>2e6469f5-28ca-424d-844f-797745c61a19</webElementGuid>
+      <webElementGuid>2dce948f-4b08-4b23-860f-e27a2935e00f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;ffInput_foreign_currency_id&quot;)</value>
-      <webElementGuid>b15db35b-6470-40a8-aaca-ee3b5d4de14e</webElementGuid>
+      <webElementGuid>d3adace3-c425-44c5-aea5-1ba49aa3f094</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//select[@id='ffInput_foreign_currency_id']</value>
-      <webElementGuid>eea18569-b203-4de3-9b42-7e9f0338f69d</webElementGuid>
+      <webElementGuid>3f19df16-2644-4844-bbe9-6b85607cc715</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='foreign_currency_id_holder']/div/select</value>
-      <webElementGuid>a49d887f-d488-40f2-a880-4e2daba296cb</webElementGuid>
+      <webElementGuid>40dc3e9c-127d-45c6-abf0-f0a50bf2514e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/div/div[2]/div/div/select</value>
-      <webElementGuid>0423c106-1764-461a-ba7e-99bb033796fd</webElementGuid>
+      <webElementGuid>0741d78a-9e2a-4032-890f-b00efad9ec74</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,6 +110,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//select[@name = 'foreign_currency_id' and @id = 'ffInput_foreign_currency_id' and (text() = '(no currency)Euro (€)Hungarian forint (Ft)Ukrainian hryvnia (₴)' or . = '(no currency)Euro (€)Hungarian forint (Ft)Ukrainian hryvnia (₴)')]</value>
-      <webElementGuid>753754cc-a5c2-4d22-bde0-f200f424a85c</webElementGuid>
+      <webElementGuid>3d46ca78-950f-4963-b3ff-f41ffcd15ec2</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

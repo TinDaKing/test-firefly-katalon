@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>a6d36f55-3e7d-4243-ac3b-ace5e165963c</webElementGuid>
+      <webElementGuid>03fced40-4bf9-4a41-af59-69f72a39fb8b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>type</name>
       <type>Main</type>
       <value>submit</value>
-      <webElementGuid>fb6721fa-74e8-4ac5-abe0-133d87ea002e</webElementGuid>
+      <webElementGuid>6c17524c-c548-4182-a9f3-3937c6bec66b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>class</name>
       <type>Main</type>
       <value>btn pull-right btn-success</value>
-      <webElementGuid>97cab816-33e4-4d75-b660-bab9f4a6f059</webElementGuid>
+      <webElementGuid>55df03ff-c646-4135-8f69-f51a6a805951</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -48,7 +48,7 @@
       <value>
 Store recurring transaction
 </value>
-      <webElementGuid>4db3424c-eca6-42a6-8f20-c9fa8c4bd8dd</webElementGuid>
+      <webElementGuid>d3a4a3fd-9b7b-4d40-9a42-34ddb27f1ab3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -56,7 +56,7 @@ Store recurring transaction
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;store&quot;)/div[@class=&quot;row&quot;]/div[@class=&quot;col-lg-6 col-md-6 col-sm-12 col-xs-12&quot;]/div[@class=&quot;box&quot;]/div[@class=&quot;box-footer&quot;]/button[@class=&quot;btn pull-right btn-success&quot;]</value>
-      <webElementGuid>583138c3-a911-4323-b582-cc23184a7352</webElementGuid>
+      <webElementGuid>85508289-b6a5-4233-865c-e83a95c00b80</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -64,7 +64,7 @@ Store recurring transaction
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>(//button[@type='submit'])[2]</value>
-      <webElementGuid>24e27380-934c-4d38-9df0-5c38be0675c1</webElementGuid>
+      <webElementGuid>887eabe3-e311-4b73-aba9-5648de98d8e7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -72,7 +72,7 @@ Store recurring transaction
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//form[@id='store']/div[3]/div/div/div[3]/button</value>
-      <webElementGuid>9f05bb30-9f5b-4adf-90eb-e9cd228df672</webElementGuid>
+      <webElementGuid>301801b8-cf70-41a7-8bae-8fa3e0c27914</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -80,7 +80,7 @@ Store recurring transaction
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[3]/button</value>
-      <webElementGuid>0f984bfd-8185-4453-a38b-f97f674a6782</webElementGuid>
+      <webElementGuid>f0f9c5c0-c040-44a5-9b43-05fe3b7788b2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -92,6 +92,6 @@ Store recurring transaction
 ' or . = '
 Store recurring transaction
 ')]</value>
-      <webElementGuid>a843c3b5-d3dd-4d67-8263-03110450a214</webElementGuid>
+      <webElementGuid>529d2101-1e67-4c5c-8ea6-5e66f68855a6</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

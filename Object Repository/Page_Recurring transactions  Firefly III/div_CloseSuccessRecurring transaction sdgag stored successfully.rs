@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>button_Sign in</name>
+   <name>div_CloseSuccessRecurring transaction sdgag stored successfully</name>
    <tag></tag>
-   <elementGuidId>69d6000a-e005-4dba-914f-14d155aa8d71</elementGuidId>
+   <elementGuidId>a79fa8a5-8832-435e-b359-da38ce197d03</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value>button.btn.btn-primary.btn-block</value>
+         <value>div.alert.alert-success.alert-dismissible</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//button[@type='submit']</value>
+         <value>//div[@id='app']/div/section[2]/div[2]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -21,63 +21,81 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>button</value>
-      <webElementGuid>f5d99cab-5494-454a-8478-12059b998f38</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>type</name>
-      <type>Main</type>
-      <value>submit</value>
-      <webElementGuid>d3a9dbc1-89c1-4e03-aedb-cfec83c3d649</webElementGuid>
+      <value>div</value>
+      <webElementGuid>89da7770-a74d-4369-bd69-d43d89b85b73</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>btn btn-primary btn-block</value>
-      <webElementGuid>fbc70693-0534-48e6-895f-d7638433b750</webElementGuid>
+      <value>alert alert-success alert-dismissible</value>
+      <webElementGuid>dd007865-f4c9-474a-acc7-53bafba2352f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>alert</value>
+      <webElementGuid>9172c642-763e-4529-9ef4-c4940b65c21b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>Sign in</value>
-      <webElementGuid>ee4159b7-38b6-4c2f-ad55-9137b3e2408b</webElementGuid>
+      <value>
+
+×Close
+
+Success!
+Recurring transaction &quot;sdgag&quot; stored successfully.
+</value>
+      <webElementGuid>de39d391-b8ff-4fc5-b59d-dc818403e654</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>/html[1]/body[@class=&quot;login-page&quot;]/div[@class=&quot;login-box&quot;]/div[@class=&quot;card&quot;]/div[@class=&quot;card-body login-card-body&quot;]/form[1]/div[@class=&quot;row mb-4&quot;]/div[@class=&quot;col-12&quot;]/button[@class=&quot;btn btn-primary btn-block&quot;]</value>
-      <webElementGuid>0dc11fd3-2624-4b19-be47-aa52d160c78f</webElementGuid>
+      <value>id(&quot;app&quot;)/div[@class=&quot;content-wrapper&quot;]/section[@class=&quot;content&quot;]/div[@class=&quot;alert alert-success alert-dismissible&quot;]</value>
+      <webElementGuid>f1e51722-dfe0-471b-a263-1ae5baf6210f</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>xpath:attributes</name>
+      <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//button[@type='submit']</value>
-      <webElementGuid>d458a806-5a96-4ec4-8c55-9af4d5a3290a</webElementGuid>
+      <value>//div[@id='app']/div/section[2]/div[2]</value>
+      <webElementGuid>f79e4be7-0810-4bd8-a7d2-b687b33ca399</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//button</value>
-      <webElementGuid>69216a8b-1bb4-4f3a-a869-b513fdf63e31</webElementGuid>
+      <value>//section[2]/div[2]</value>
+      <webElementGuid>3663a30c-d076-4a49-9eca-418c64cb8a98</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//button[@type = 'submit' and (text() = 'Sign in' or . = 'Sign in')]</value>
-      <webElementGuid>b3a8a6cb-23da-4e43-acdf-1f3958846a47</webElementGuid>
+      <value>//div[(text() = '
+
+×Close
+
+Success!
+Recurring transaction &quot;sdgag&quot; stored successfully.
+' or . = '
+
+×Close
+
+Success!
+Recurring transaction &quot;sdgag&quot; stored successfully.
+')]</value>
+      <webElementGuid>2898a36f-0a9c-43dd-8d5d-fcd2d675eaea</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

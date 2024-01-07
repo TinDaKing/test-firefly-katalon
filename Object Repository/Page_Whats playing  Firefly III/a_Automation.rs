@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>9cad0fd1-881d-4489-8346-63abd207076d</webElementGuid>
+      <webElementGuid>b73d5a92-fda3-486f-9298-a142cd24f34c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>href</name>
       <type>Main</type>
       <value>#</value>
-      <webElementGuid>abda8679-d40c-412c-814f-f27492a7ed73</webElementGuid>
+      <webElementGuid>964d2d71-7b14-4d6f-ac2d-228d90fe351f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -44,7 +44,7 @@ Automation
 
 
 </value>
-      <webElementGuid>0ebabc77-1c35-4c5c-90d3-aaaad72217cd</webElementGuid>
+      <webElementGuid>fe66a899-03f7-45c0-8222-5f7c33a3a488</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -52,7 +52,7 @@ Automation
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;app&quot;)/aside[@class=&quot;main-sidebar&quot;]/section[@class=&quot;sidebar&quot;]/ul[@class=&quot;sidebar-menu tree&quot;]/li[@class=&quot;treeview&quot;]/a[1]</value>
-      <webElementGuid>8d9eaa67-c310-4ed0-af89-34163c10f898</webElementGuid>
+      <webElementGuid>956c5a79-ba57-467f-a8cf-4623decceccb</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -60,7 +60,7 @@ Automation
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='app']/aside/section/ul/li[8]/a</value>
-      <webElementGuid>68efb68c-9eb5-4b7d-aecd-30c6c23b7c19</webElementGuid>
+      <webElementGuid>23c958d0-260f-4c2a-9400-31fd5685a5bd</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -68,7 +68,7 @@ Automation
       <name>xpath:href</name>
       <type>Main</type>
       <value>(//a[contains(@href, '#')])[5]</value>
-      <webElementGuid>b432d319-d194-47cd-be80-49a1e27fe2ae</webElementGuid>
+      <webElementGuid>eb75f3de-943e-4f09-9522-59789d06e1fd</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -76,7 +76,7 @@ Automation
       <name>xpath:position</name>
       <type>Main</type>
       <value>//li[8]/a</value>
-      <webElementGuid>3a310349-3fab-4ae8-b73e-4f816e2f1737</webElementGuid>
+      <webElementGuid>f341c5c1-5a07-4c1c-892a-819cfdb417ed</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -96,6 +96,6 @@ Automation
 
 
 ')]</value>
-      <webElementGuid>6409d0b6-d3ea-407e-a169-f8ce1be8bc89</webElementGuid>
+      <webElementGuid>f8b4facf-4040-4452-b90b-c1702d7e9abf</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

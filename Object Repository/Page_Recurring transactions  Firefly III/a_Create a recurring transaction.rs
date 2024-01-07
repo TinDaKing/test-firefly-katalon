@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>8c860a5b-573e-4176-8480-a53995d5b5d3</webElementGuid>
+      <webElementGuid>f6b2e396-ea9a-4f68-a526-6bb2072c46e2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>href</name>
       <type>Main</type>
       <value>https://demo.firefly-iii.org/recurring/create</value>
-      <webElementGuid>e74c3d0a-a40c-43e4-809c-dd46b5f14638</webElementGuid>
+      <webElementGuid>b7371515-6460-45f7-86f1-ea1f266b9f7c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>class</name>
       <type>Main</type>
       <value>btn btn-success</value>
-      <webElementGuid>b6ff403a-dadb-414b-8d32-4b2ea3903063</webElementGuid>
+      <webElementGuid>80ee3c10-8c65-4238-92ff-08f12ed79dab</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -47,7 +47,7 @@
       <type>Main</type>
       <value> Create a recurring transaction
 </value>
-      <webElementGuid>254696f3-4393-4ae8-919f-fbed60619b3d</webElementGuid>
+      <webElementGuid>178ae0be-74e5-4c53-b743-9980abf462c7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -55,7 +55,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;app&quot;)/div[@class=&quot;content-wrapper&quot;]/section[@class=&quot;content&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-lg-12 col-md-12 col-sm-12&quot;]/div[@class=&quot;box&quot;]/div[@class=&quot;box-body no-padding&quot;]/div[1]/a[@class=&quot;btn btn-success&quot;]</value>
-      <webElementGuid>d8b2a035-7ec1-4f41-b6dd-fbaf09781538</webElementGuid>
+      <webElementGuid>33fa5be0-5d89-4040-aea3-0acdae3d4ded</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -63,7 +63,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='app']/div/section[2]/div[3]/div/div/div[2]/div/a</value>
-      <webElementGuid>275154a5-ee6d-4f57-94d4-367062853c42</webElementGuid>
+      <webElementGuid>4dcab6fc-3b89-4e21-b07c-8cf63b3c48f9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -71,7 +71,7 @@
       <name>xpath:link</name>
       <type>Main</type>
       <value>(//a[contains(text(),'Create a recurring transaction')])[2]</value>
-      <webElementGuid>d7630d5c-dcf3-455c-9895-bb96b4516a60</webElementGuid>
+      <webElementGuid>4a330b62-9b00-487d-a120-4f29b83353a9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -79,7 +79,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>(//a[contains(@href, 'https://demo.firefly-iii.org/recurring/create')])[2]</value>
-      <webElementGuid>4681eaaa-fbb3-4898-8851-92c20c71ca57</webElementGuid>
+      <webElementGuid>308428f7-c6f5-4f95-93f5-4e65067e2e8a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -87,7 +87,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div/a</value>
-      <webElementGuid>a25bb654-f8d7-407d-8de0-f9ddef900fe1</webElementGuid>
+      <webElementGuid>f4350753-26f0-4159-b45f-a9bc147055fe</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -97,6 +97,6 @@
       <value>//a[@href = 'https://demo.firefly-iii.org/recurring/create' and (text() = ' Create a recurring transaction
 ' or . = ' Create a recurring transaction
 ')]</value>
-      <webElementGuid>67e2159e-58a7-4e86-8d2a-be9fbecfa4ab</webElementGuid>
+      <webElementGuid>b13bbfc2-70f4-4a4f-9ba9-6ef854103429</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
