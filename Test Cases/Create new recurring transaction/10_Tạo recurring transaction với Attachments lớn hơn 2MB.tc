@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>10_Tạo recurring transaction với Attachments lớn hơn 2MB</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f4071d10-a561-4202-a6fb-12c33b93b7ec</testCaseGuid>
+</TestCaseEntity>

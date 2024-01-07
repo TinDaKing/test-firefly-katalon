@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>New Test Case (1)</name>
+   <name>07_Tạo recurring transaction với Repetition âm</name>
    <tag></tag>
    <comment></comment>
-   <testCaseGuid>68862531-8008-400d-a837-c5ae0f379eb0</testCaseGuid>
+   <testCaseGuid>be1ede50-c09f-4543-855c-462063976b65</testCaseGuid>
 </TestCaseEntity>

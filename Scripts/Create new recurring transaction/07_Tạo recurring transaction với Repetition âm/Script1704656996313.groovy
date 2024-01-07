@@ -19,49 +19,28 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.callTestCase(findTestCase('Log in'), [:], FailureHandling.STOP_ON_FAILURE)
 
-WebUI.click(findTestObject('Object Repository/Page_Whats playing  Firefly III/a_Automation'))
+WebUI.click(findTestObject('Object Repository/Page_Whats playing  Firefly III/span_pull-right-container'))
 
 WebUI.click(findTestObject('Object Repository/Page_Whats playing  Firefly III/span_Recurring transactions'))
 
 WebUI.click(findTestObject('Object Repository/Page_Recurring transactions  Firefly III/a_Create a recurring transaction'))
 
-WebUI.setText(findTestObject('Object Repository/Page_Create new recurring transaction  Recu_5308fa/input_title'), 'abcd123')
-
-WebUI.setText(findTestObject('Object Repository/Page_Create new recurring transaction  Recu_5308fa/input_skip'), '31')
+WebUI.setText(findTestObject('Object Repository/Page_Create new recurring transaction  Recu_5308fa/input_title'), 'abcd')
 
 WebUI.selectOptionByValue(findTestObject('Object Repository/Page_Create new recurring transaction  Recu_5308fa/select_Repeat foreverRepeat until dateRepea_4f389d'), 
-    'forever', true)
+    'times', true)
 
-WebUI.selectOptionByValue(findTestObject('Object Repository/Page_Create new recurring transaction  Recu_5308fa/select_Repeat foreverRepeat until dateRepea_4f389d'), 
-    'until_date', true)
-
-WebUI.setText(findTestObject('Object Repository/Page_Create new recurring transaction  Recu_5308fa/textarea_recurring_description'), 
-    'note')
-
-WebUI.click(findTestObject('Object Repository/Page_Create new recurring transaction  Recu_5308fa/input_active'))
-
-WebUI.click(findTestObject('Object Repository/Page_Create new recurring transaction  Recu_5308fa/input_apply_rules'))
-
-WebUI.click(findTestObject('Object Repository/Page_Create new recurring transaction  Recu_5308fa/a_Deposit'))
+WebUI.setText(findTestObject('Object Repository/Page_Create new recurring transaction  Recu_5308fa/input_repetitions'), 
+    '-1')
 
 WebUI.setText(findTestObject('Object Repository/Page_Create new recurring transaction  Recu_5308fa/input_transaction_description'), 
-    'abcdxyz123')
+    'abcd7852')
 
-WebUI.setText(findTestObject('Object Repository/Page_Create new recurring transaction  Recu_5308fa/input_amount'), '5.3')
-
-WebUI.selectOptionByValue(findTestObject('Object Repository/Page_Create new recurring transaction  Recu_5308fa/select_(no currency)Brazilian real (R)Euro _fcb7f0'), 
-    '1', true)
-
-WebUI.setText(findTestObject('Object Repository/Page_Create new recurring transaction  Recu_5308fa/input_foreign_amount'), 
-    '1020.30')
-
-WebUI.setText(findTestObject('Object Repository/Page_Create new recurring transaction  Recu_5308fa/input_category'), 'category1')
-
-WebUI.setText(findTestObject('Object Repository/Page_Create new recurring transaction  Recu_5308fa/input_tt-input'), 'tag1')
-
-WebUI.click(findTestObject('Object Repository/Page_Create new recurring transaction  Recu_5308fa/input_create_another'))
+WebUI.setText(findTestObject('Object Repository/Page_Create new recurring transaction  Recu_5308fa/input_amount'), 3)
 
 WebUI.click(findTestObject('Object Repository/Page_Create new recurring transaction  Recu_5308fa/button_Store recurring transaction'))
 
-WebUI.acceptAlert()
+WebUI.verifyTextPresent('The repetitions must be at least 0.', false)
+
+WebUI.closeBrowser()
 
