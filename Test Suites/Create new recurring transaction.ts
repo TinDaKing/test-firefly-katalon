@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestSuiteEntity>
    <description></description>
-   <name>Create New Recurring Transaction</name>
+   <name>Create new recurring transaction</name>
    <tag></tag>
    <isRerun>false</isRerun>
    <mailRecipient></mailRecipient>
-   <numberOfRerun>3</numberOfRerun>
+   <numberOfRerun>1</numberOfRerun>
    <pageLoadTimeout>30</pageLoadTimeout>
    <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
    <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
    <rerunImmediately>true</rerunImmediately>
-   <testSuiteGuid>28ec6e35-90bf-45a0-9768-e531adaab090</testSuiteGuid>
+   <testSuiteGuid>24bf3506-8606-4c19-a12c-6ed7a6260cce</testSuiteGuid>
    <testCaseLink>
-      <guid>1664b3bc-965a-464e-a266-f0618e150e8e</guid>
+      <guid>eb6888a5-126e-491c-83d8-08caa1b70811</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/Create new recurring transaction/01_Tạo recurring transaction có tất cả các trường thông tin hợp lệ</testCaseId>
-      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <usingDataBindingAtTestSuiteLevel>false</usingDataBindingAtTestSuiteLevel>
       <variableLink>
          <testDataLinkId></testDataLinkId>
          <type>DEFAULT</type>
@@ -43,11 +43,11 @@
       </variableLink>
    </testCaseLink>
    <testCaseLink>
-      <guid>b5f1c974-fff5-4d92-80fe-090a41c2348d</guid>
+      <guid>05e378b7-b73a-48b8-9eaf-baa1ffab0192</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/Create new recurring transaction/02_Tạo recurring transaction có tất cả các trường thông tin hợp lệ 2</testCaseId>
-      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <usingDataBindingAtTestSuiteLevel>false</usingDataBindingAtTestSuiteLevel>
       <variableLink>
          <testDataLinkId></testDataLinkId>
          <type>DEFAULT</type>
@@ -104,11 +104,11 @@
       </variableLink>
    </testCaseLink>
    <testCaseLink>
-      <guid>1e3f093a-1d8f-4d93-a2dc-f41d3e861db1</guid>
+      <guid>3de4be42-2c61-4e06-83d2-8773f8359896</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/Create new recurring transaction/03_Tạo recurring transaction có tất cả các trường thông tin hợp lệ 3</testCaseId>
-      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <usingDataBindingAtTestSuiteLevel>false</usingDataBindingAtTestSuiteLevel>
       <variableLink>
          <testDataLinkId></testDataLinkId>
          <type>DEFAULT</type>
@@ -147,11 +147,11 @@
       </variableLink>
    </testCaseLink>
    <testCaseLink>
-      <guid>e84fb9a8-f84d-4dc4-8f3c-eb96a3db9273</guid>
+      <guid>8511f467-f17c-4812-b721-2b6eb025c946</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/Create new recurring transaction/04_Tạo recurring transaction với Title không nhập, Skip âm, Recurring transaction description quá dài</testCaseId>
-      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <usingDataBindingAtTestSuiteLevel>false</usingDataBindingAtTestSuiteLevel>
       <variableLink>
          <testDataLinkId></testDataLinkId>
          <type>DEFAULT</type>
@@ -190,11 +190,11 @@
       </variableLink>
    </testCaseLink>
    <testCaseLink>
-      <guid>3ef3c031-3a51-4604-a585-7211cd3cd34e</guid>
+      <guid>ce25ccb4-dec8-4010-8c10-abb4f9e086ef</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/Create new recurring transaction/05_Tạo recurring transaction với Title quá dài, Skip vượt khoảng, Transaction description quá dài</testCaseId>
-      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <usingDataBindingAtTestSuiteLevel>false</usingDataBindingAtTestSuiteLevel>
       <variableLink>
          <testDataLinkId></testDataLinkId>
          <type>DEFAULT</type>
@@ -227,35 +227,35 @@
       </variableLink>
    </testCaseLink>
    <testCaseLink>
-      <guid>af897cdb-b806-4341-9245-7cce393493ea</guid>
+      <guid>f118f55d-526f-4dc2-b774-c6c8bc1b3a83</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/Create new recurring transaction/06_Tạo recurring transaction với Skip không hợp lệ, Repetition quá khoảng, Amount không hợp lệ</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
-      <guid>9c3a749e-60bb-41f4-87b2-b69026bbb50a</guid>
+      <guid>689aba3f-639a-4dbb-b794-e4002c9a458c</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/Create new recurring transaction/07_Tạo recurring transaction với Repetition âm</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
-      <guid>6ddc2a8a-c63e-4c24-8472-7b66635284c2</guid>
+      <guid>9b418c36-facc-40cd-807b-1a1a3c3d6d6c</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/Create new recurring transaction/08_Tạo recurring transaction với Repetition là số thập phân</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
-      <guid>04e551bf-94ba-45b7-8d75-828c37cc1463</guid>
+      <guid>33b1b3c3-ba98-4391-b3e0-33adea09b8d6</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/Create new recurring transaction/09_Tạo recurring transaction với Repeat until trước ngày hôm nay</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
-      <guid>44e8904a-637a-453a-8ff9-55af4a3217c3</guid>
+      <guid>c6b9f3c9-5056-48d1-9d61-275ded382591</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/Create new recurring transaction/10_Tạo recurring transaction với Attachments lớn hơn 2MB</testCaseId>

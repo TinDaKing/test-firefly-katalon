@@ -35,10 +35,7 @@ WebUI.setText(findTestObject('Object Repository/Page_Create new recurring transa
 WebUI.setText(findTestObject('Object Repository/Page_Create new recurring transaction  Recu_5308fa/input_amount'), Amount)
 
 WebUI.selectOptionByValue(findTestObject('Object Repository/Page_Create new recurring transaction  Recu_5308fa/select_(no currency)Swiss franc (CHF)Euro (_0331dc'), 
-    '0', true)
-
-WebUI.selectOptionByValue(findTestObject('Object Repository/Page_Create new recurring transaction  Recu_5308fa/select_(no currency)Swiss franc (CHF)Euro (_0331dc'), 
-    '23', true)
+    '3', true)
 
 WebUI.setText(findTestObject('Object Repository/Page_Create new recurring transaction  Recu_5308fa/input_foreign_amount'), 
     Foreign_amount)

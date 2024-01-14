@@ -25,7 +25,7 @@ WebUI.click(findTestObject('Object Repository/Page_Whats playing  Firefly III/sp
 
 WebUI.click(findTestObject('Object Repository/Page_Recurring transactions  Firefly III/a_Create a recurring transaction'))
 
-WebUI.setText(findTestObject('Object Repository/Page_Whats playing  Firefly III/span_pull-right-container'), 'aej24s')
+WebUI.setText(findTestObject('Page_Create new recurring transaction  Recu_5308fa/input_title'), 'aej24s')
 
 WebUI.selectOptionByValue(findTestObject('Object Repository/Page_Create new recurring transaction  Recu_5308fa/select_Repeat foreverRepeat until dateRepea_4f389d'), 
     'until_date', true)
@@ -33,10 +33,9 @@ WebUI.selectOptionByValue(findTestObject('Object Repository/Page_Create new recu
 WebUI.setText(findTestObject('Page_Create new recurring transaction  Recurring transactions  Firefly III/input_Repeat until_repeat_until'), 
     '02/03/2023')
 
-WebUI.setText(findTestObject('Object Repository/Page_Whats playing  Firefly III/span_Recurring transactions'), 'abcd7852')
+WebUI.setText(findTestObject('Page_Create new recurring transaction  Recu_5308fa/input_transaction_description'), 'abcd7852')
 
-WebUI.setText(findTestObject('Object Repository/Page_Recurring transactions  Firefly III/a_Create a recurring transaction'), 
-    3)
+WebUI.setText(findTestObject('Page_Create new recurring transaction  Recu_5308fa/input_amount'), '3')
 
 WebUI.click(findTestObject('Object Repository/Page_Create new recurring transaction  Recu_5308fa/button_Store recurring transaction'))
 
